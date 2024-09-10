@@ -1,0 +1,39 @@
+{
+  "response": [
+    {
+      "value": {
+        "post_number": 138,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=138",
+        "subject": "ArcGIS X USC",
+        "content": "For Hw3, if anyone having trouble with creating an ArcGIS trial account, Please refer to this link: https://usctrojan.maps.arcgis.com/ For further info refer : https://spatial.usc.edu/software/proprietary-software-students/",
+        "follow_ups": []
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 181,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=181",
+        "subject": "Coordinates Slightly Off",
+        "content": "Using the webpage provided in the guide, some of my coordinates are slightly off. Is that ok?",
+        "follow_ups": []
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 180,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=180",
+        "subject": "arcgis - Filetype",
+        "content": "Hello, After setting up a public ArcGIS account, when I navigate to the map tab and try to add a layer from a file, I'm shown this screen: It seems like I cannot add a .shp file as a layer?",
+        "follow_ups": [
+          {
+            "subject": "No subject",
+            "content": "No content"
+          }
+        ]
+      },
+      "type": "text"
+    }
+  ]
+}

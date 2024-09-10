@@ -1,0 +1,1166 @@
+[
+    {
+        "audio_transcription": "104 people 104 from 350",
+        "OCR_text": "satychary\n\n\u00ab> @ 6 la\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h0m0s",
+        "frame": "output_frame_0001.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Recy\n\nr\n\n00dsktp\n\noriginal se chek\n\nENG\nus\n\n5:01:20 PM\n2/3/2024\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h0m22s",
+        "frame": "output_frame_0023.jpg"
+    },
+    {
+        "audio_transcription": "you could put tiny GPS receivers that have wireless transmission",
+        "OCR_text": "62 4\npan note 3\nppr_page: A\nwiki folders wiki links g\nontite-ovily. Dy ;\njopbox a C\natl BA GM\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h1m56s",
+        "frame": "output_frame_0117.jpg"
+    },
+    {
+        "audio_transcription": "and then get the GPS coordinates when they fly across the US in real time maybe a thousand birds and then stream them to a database and actually watch them on your screen like a group migration biologists go crazy ornithologist study birds they go crazy with this because just you know 10 years ago they could only dream of doing something like that",
+        "OCR_text": "x +\nXG Search type a URL x @ Bowron @:\n@_  pprnotes  pprnages @ ATOM.11 %F wilotolders S wiki.tings %$F online.only Dropbox a Outl BGM @ SVG-edit @ phonked @Q/ Sem\n| ae\n\nGoogle\n\nQ Search Google or type a URL\n\nLf] ti\n\nFacebook Inbox (630)\n\nENG 5:03:00 PM\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h2m2s",
+        "frame": "output_frame_0123.jpg"
+    },
+    {
+        "audio_transcription": "yellow kind of",
+        "OCR_text": "Ct bytes.uscedu/csses,\n\n\u20ac\n@ @ ppenotes @ pepogss % ATOM\n\nS witilinks Be\n\n'\n\nDr. Saty Raghavachary, Associate Professor, CS Dept.\n5:00-8:20pm, on Wed, ONLINE (only)\nhttps://bytes.usc.edu/cs585/s2 1_DBDSO12/\nhttps://courses.uscden.net/d2l/home/20S37\n\nhttps://piazza.com/class/kk58qoi8l6i20n\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h2m35s",
+        "frame": "output_frame_0156.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "\u20ac\n) dei\n\n@ bytesuscedu/csses\n\n2/homesindex: htm)\n\n ppcpoges HS ATOMAT SF wikWlolders wiki inks BF on\n\nhttps://piazza.com/class/kk58qoi8l6iz0n\n\nPreview [\"Welcome to CS585!\"]\nBlurb\n\nWhat this course is about -here isa shar! descs\n\non, From the course catalog.\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h2m36s",
+        "frame": "output_frame_0157.jpg"
+    },
+    {
+        "audio_transcription": "it has to do with",
+        "OCR_text": "BE tome x +\n\n@ bytesuscedu/css!\n\nindex htm!\n\niM.\n\npas # $F wikitolders Swill links SF cnline-oniy.Drosten a Cutt\n\nU2DU1 303; Valavase Syscenmis \u2014 |\nDr. Saty Raghavachary, Associate Professor, CS Dept.\n\n5:00-8:20pm, on Wed, ONLINE (only) =\nhttps://bites.usc.edu/es585/s21_DBDS012/ 3)\nhttps://courses.uscden.net/d2|/home/20537\nhttps://piazza.com/class/kk58qoi8l6iz0n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h2m53s",
+        "frame": "output_frame_0174.jpg"
+    },
+    {
+        "audio_transcription": "wire diagrams do you need to create the template for a beautiful working database if someone were to take your diagram and turn that into an actual database it should work you can even try it yourself you could do some sequel after next class and see your design is actually valid so no invalid designs okay that's when you lose points okay hopefully today we need to do this part okay",
+        "OCR_text": "x\n\nCt bytesuscedusesses,\n\n\u20ac 012\nll @ f ppenotes \u00a9 pprpages @ ATOM11 3 wikitolders @ wililinks Ze online.only Dropbox MH ul BGM g svG-edit @ phonk.ed\n\ni\n\nCSCI 585: Database Systems\nDr. Saty Raghavachary, Associate Professor, CS Dept.\n5:00-8:20pm, on Wed, ONLINE (only)\nhttps://bytes.usc,edu/cs585/s21_DBDS012/\n\nhttps://courses.uscden,net/d2l/home/20537\n\nhttps://piazza.com/class/kk58qoi8l6i20n\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h2m54s",
+        "frame": "output_frame_0175.jpg"
+    },
+    {
+        "audio_transcription": "can I just jump",
+        "OCR_text": "x\n\nRelatienal Modeling x\n\n+\n\nmaiModel/sti\n\nA Logical View of Data\n* Relational database model enables logical\n\n4g, ENG sosiePm\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h3m20s",
+        "frame": "output_frame_0201.jpg"
+    },
+    {
+        "audio_transcription": "this notion of relations so in the end even though we talked about file systems that are not connected together we talked about networks we talked about hierarchies but then the most General way to model anything even in the no secret world is actually this idea color relation it is forever it's just a simple but brilliant idea how many brilliant ideas are extremely simple",
+        "OCR_text": "BB iectures % \u2014 @ Relational Modeling (t x + Som - 8\n\naiModel/sti\n\n$F online-otih Dropbox MH Sutt\n\nCf bytesuscedures\n\nLoading [MathJax]/jax/output/HTML-CSS/fonts/Tex/fontdata,js\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h3m21s",
+        "frame": "output_frame_0202.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Logical view: 'relation\u2019\n\nA Logical View of Data\n\n* Relational database model enables logical\nrepresentation of the data and its relationships\n\n* Logical simplicity yields simple and effective\ndatabase design methodologies\n\n* Facilitated by the creation of data relationships\nbased on a logical construct called a relation\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h3m43s",
+        "frame": "output_frame_0224.jpg"
+    },
+    {
+        "audio_transcription": "play Kevin you would actually lose out like crazy I mean you would always get more information if you go and read the chapter right but I tell you some things that are actually not in any chapters and then more importantly the exam",
+        "OCR_text": "Logical view: relation\u2019\n\nA Logical View of Data\n\n* Relational database model enables logical\nrepresentation of the data and its relationships\n\n* Logical simplicity yields simple and effective\ndatabase design methodologies\n\n* Facilitated by the creation of data relationships\nbased on a logical construct called a relation\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h4m11s",
+        "frame": "output_frame_0252.jpg"
+    },
+    {
+        "audio_transcription": "are based on what I say to you here and not from the book that I never read the book myself let's put it that way so now you would be totally off if you do that so please don't do that so don't say instead of you can say in addition to if you want more cuz we have no time to go through like 1,000 pages of textbook right now you should absolutely check the slides more than check the slides the slides have just a few words listen to the audio video so listen to what I say that is because I tell you things that are you know easy to understand they're not in the books all right A relationship is simultaneously two different things on the one hand",
+        "OCR_text": "Logical view: relation\u2019\n\nA Logical View of Data\n\n* Relational database model enables togical\nrepresentation of the data and its relationships\n\n* Logical simplicity yields simple and effective\ndatabase design methodologies\n\n* Facilitated by the ereation of data relationships\nbased on a logical construct called a relation\n\nsui f\n\nENG SU527PM\nus\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h4m23s",
+        "frame": "output_frame_0264.jpg"
+    },
+    {
+        "audio_transcription": "relation is a relation between two different tables that is mostly what we call a relation",
+        "OCR_text": "Bamboo Paper\n\nM%\\<l\n\nBAMBOO\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h5m2s",
+        "frame": "output_frame_0303.jpg"
+    },
+    {
+        "audio_transcription": "that is why it's called entity relation because the two tables are called entities",
+        "OCR_text": "Bamboo Paper\n\nwo G\u00a2 A B\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h5m8s",
+        "frame": "output_frame_0309.jpg"
+    },
+    {
+        "audio_transcription": "relating to a different entity like one student taking many courses and then one course being taken by many students at some money to money so we called the relation on the other hand a relation also is every cell in just one of those tables just take any table that has any number of rows and columns we call this a relationship also this is also relationship relationship and then the reason is because this relationship but that's a separate relationship meanings for the word a relationship but the meaning that we most of the time you use is",
+        "OCR_text": "Bamboo Paper\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h5m13s",
+        "frame": "output_frame_0314.jpg"
+    },
+    {
+        "audio_transcription": "open",
+        "OCR_text": "ENG\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h6m1s",
+        "frame": "output_frame_0362.jpg"
+    },
+    {
+        "audio_transcription": "connection between individual entities",
+        "OCR_text": "Bamboo Paper\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h6m2s",
+        "frame": "output_frame_0363.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "A Logical View of Data\n\n* Relational database model enables logical\nrepresentation of the data and its relationships\n\n* Logical simplicity yields simple and effective\ndatabase design methodologies\n\n* Facilitated by the creation of data relationships\nbased on a logical construct called a relation\n\nENG 50/203 PM\nUS 024\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h6m5s",
+        "frame": "output_frame_0366.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Bamboo Paper\n\nGo 8 4&4\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h6m12s",
+        "frame": "output_frame_0373.jpg"
+    },
+    {
+        "audio_transcription": "so what are all the different things that are true about a table okay what it is is on the one hand",
+        "OCR_text": "@ bytes.iscedu/es 1 DaDSOtZAect lation\n\n@ norcpages SATOMI BF wikiteiders & wf\n\nLaAVIT J.1 ~ VHALALIELISLUL\n\nTable\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h6m15s",
+        "frame": "output_frame_0376.jpg"
+    },
+    {
+        "audio_transcription": "Feature Feature Feature so when you look at something magically you start thinking about features that we might look at this browser and you might tell yourself you know the browser has three tabs right now I could at least one two and it's all you might say you know this number one day so we call all these features in the world okay it's one of the problems in data modeling or in AI those features are not obvious so when you see this browser and I see this browser we might be looking at two different things but they're all features columns okay so each intersection of Corona call and represents a single data value which is also called a relationship must be the same format okay that is because columns are common everybody says this is GPA it's going to be everybody's last name going down if this column was your social security number it'll be everybody has a specific range GPA can only be between 0 and 5 but confusingly we call it range or domain in math text access is called the main access is called range is so here we confuse them conflict them and then hold the domain name nothing changes similarly if this used to be a last name if this used to be a first name I don't like that I want to move the last name I want to grab all this last name and then move it right next to first name nothing will change so the table Remains the Same when you means positional Independence is there it doesn't matter how this table is actually stored in disc because it doesn't matter at all what do you say and what do you say anything",
+        "OCR_text": "6.8 4 Sim\n\nx &\n\u00a9 TOMI) SF wiki folders witLinis %F online.onhy Dropbox A Cun) Bf\n1 - UClALALLCLISULS UL a KelauULtal\n\nTable\n\nSo bytesusceduressasis21 miaiectur\n\nLavic 3\n\nnip\nsurrerice within\n\nThapte: repre\n\n1 Eee) alte anluiran aprons Un-olSeibllle,\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h6m21s",
+        "frame": "output_frame_0382.jpg"
+    },
+    {
+        "audio_transcription": "Christianity actually mean the entity set the whole table is what you doing today OK Google okay this is the key part of it in every table there must be at least one column where all the values are different from each other because that column is like an ID call them that is the primary key sometimes you want to call them sometimes two columns together that combination must be unique you know all this I want to spend a lot of time because otherwise it doesn't matter what all these other girls were 100% of all of this is identical everyone has the same advice is same major same GPS",
+        "OCR_text": ">\n(a)\nLa\n\no*@\n\nLAVIC J.1 - VLAIALLICLISLICS UL a Keiaivnal.\n\nTable\n\ne- \u00a9 pinpages @ ATOM. SF will 2a\n\n& Each faible mn have anv atinbute or cownihinationcot attributes Int anuquely Wentiiies ench v\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h8m49s",
+        "frame": "output_frame_0530.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "@ bytesuscedu\n\nKeys\n\n|\n\" Consist of one or more attributes that determine othe F\nattributes ,\n\n* Used to:\n\n= Ensure that each row in a table is uniquely identifiable\n\n* Establish relationships among tables and to ensure the\nintegrity of the data\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h9m52s",
+        "frame": "output_frame_0593.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Se & aA 3\n\nComposite key; entity integrity\n\nTypes of Keys\n* Composite key: Key that is composed of more than\none attribute\n\n* Key attribute: Attribute that is a part of a key\n\n* Entity integrity; Condition in which each row in the\ntable has its own unique identity\n\n* All of the values in the primary key must be unique\n* No key attribute in the primary key can contain a null\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h18m18s",
+        "frame": "output_frame_1099.jpg"
+    },
+    {
+        "audio_transcription": "Recognition service error: recognition connection failed: [Errno 32] Broken pipe",
+        "OCR_text": "Nulls; referential integrity\n\nTypes of Keys\n\n* Null: Absence of any data value that could represent:\n* An unknown attribute value\n* A known, but missing, attribute value\n* A inapplicable condition\n\n* Referential integrity: Every reference to an entity\ninstance by another entity instance is valid\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h25m2s",
+        "frame": "output_frame_1503.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Dieu | @ RUE XD Charing! xo a \u201c135 @ 4 @ a\n\n% OW Neteecire oaiedieora * ow\n\nChoosing a Primary Key: Natural or\n\nAgile Surrogate? \\ ij we\nData n\nW @scottwambler ss\ns Contact ara\nSearch\nThis article overviews strategies for assigning primary keys fo a table within @ relational datatiase. In \u00b0\nparticular, i focuses on the issue of when to lise natural Keys and wien to Use surogate keys. Some a dont Ho ; ti\n\npeople will tell you that you shauld always use natural keys and others will tol you that you should\nalways use surrogate keys: These people invariably prove to be wrong, typically they're doing litle\nmore than sharing the prejudices of their \u201cdata religion\" with you. The reallty is that natural and\nsurrogate keys each have thelr advantages and disadvantages, and that no strategy is perfect far all\nsituations, In other words, you need to know what you're doing you want to get It right. This article\ndiscuss\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h48m10s",
+        "frame": "output_frame_2891.jpg"
+    },
+    {
+        "audio_transcription": "so let's first ask some question",
+        "OCR_text": "more tables]\n\nRelational \u2018algebra\u2019 [fun with one, two or\n\nRelational Algebra\n\n* Theoretical way of manipulating table contents using\nrelational operators\n\n* Relyar: Variable that holds a relation\n\n* Heading contains the names of the attributes and the\nbody contains the relation\n\n* Relational operators have the property of closure\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h53m58s",
+        "frame": "output_frame_3239.jpg"
+    },
+    {
+        "audio_transcription": "what is a",
+        "OCR_text": "Bambee Paper\n\n@ Sip Sonne eo Panos Sse onl 2 @ |\n\nRelational \u2018algebra\u2019 [fun with one, twe\n\nmore tables]\n\nRelational Algebra\n\n* Theoretical way of manipulating table contents using\nrelational operators\n\n* Relyar: Variable that holds a relation\n\n* Heading contains the names of the attributes and the\nbody contains the relation\n\n* Relational operators have the property of closure\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h54m1s",
+        "frame": "output_frame_3242.jpg"
+    },
+    {
+        "audio_transcription": "Define dictionary is a dinner time what language do you have what language pretty much makes a dictionary and Designs a whole language pretty much deal with key Value Place Hotel then can I take a square root of a table no no it's not an integer so that's what I mean by operations so what operations can I do on one table supposed to have a number you have another number two different objects can be like multiplication I can find the geometric numbers all of those are called operations so now we ask very important question when you have eight table full of data like this what applications can you do on one table and then also what are patients can you do want to tables and then back extension more than two so it's very interesting to think of tables as data types that is exactly cards genius",
+        "OCR_text": "Be x @ hau ee) aminu x | Site ar\n\nRelational \u2018algebra\u2019 [fun with one, twe\n\nmore tables]\n\nRelational Algebra\n\n= Theoretical way of manipulating table contents using\nrelational operators\n\n* Relyar: Variable that holds a relation\n\n* Heading contains the names of the attributes and the\nbody contains the relation\n\n* Relational operators have the property of closure\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h54m4s",
+        "frame": "output_frame_3245.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "i]\n\nRelational \u2018algebra\u2019 [fun with one, two or\n\nmore tables]\n\nRelational Algebra\n\n* Theoretical way of manipulating table contents using\nrelational operators\n\n* Relyar: Variable that holds a relation\n\n* Heading contains the names of the attributes and the\nbody contains the relation\n\n* Relational operators have the property of closure\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h55m53s",
+        "frame": "output_frame_3354.jpg"
+    },
+    {
+        "audio_transcription": "8 you know then I can tell you things you can type by the way I'm not telling you not to type but sometimes be careful because what happens if you type something",
+        "OCR_text": "5) :\n+ GEO \u00ae\n\nBD vpenotes S ppipages MaTOMt RF wi folders Se wien .\n\nRelational \u2018algebra\u2019 [fun with one, two or\n\nmore tables]\n\nRelational Algebra\n\n= Theoretical way of manipulating table contents using\nrelational operators\n\n* Relyar: Variable that holds a relation\n\n* Heading contains the names of the attributes and the\nbody contains the relation\n\n* Relational operators have the property of closure\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h56m10s",
+        "frame": "output_frame_3371.jpg"
+    },
+    {
+        "audio_transcription": "next track a lot of people who read that and then they'll be electron off okay so it's not right I mean credit is a different area this one just simply says before",
+        "OCR_text": "Relational \u2018algebra\u2019 [fun with one, two or\n\nmore tables]\n\nRelational Algebra\n\n* Theoretical way of manipulating table contents using\nrelational operators\n\n* Relyar: Variable that holds a relation\n\n* Heading contains the names of the attributes and the\nbody contains the relation\n\n* Relational operators have the property of closure\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h56m17s",
+        "frame": "output_frame_3378.jpg"
+    },
+    {
+        "audio_transcription": "play to any of that conceptually what can you do with two tables okay you can answer that can actually multiply them you can divide them",
+        "OCR_text": "Sim i - a\n\ni]\n\noo 4 60\n\n bytesisceduy\n\nBD @ vpenotes \u00a9 pppoe ator\n\nRelational \u2018algebra\u2019 [fun with one, two or\n\nmore tables]\n\nRelational Algebra\n\n= Theoretical way of manipulating table contents using\nrelational operators\n\n* Relyar: Variable that holds a relation\n\n* Heading contains the names of the attributes and the\nbody contains the relation\n\n* Relational operators have the property of closure\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h56m26s",
+        "frame": "output_frame_3387.jpg"
+    },
+    {
+        "audio_transcription": "okay so that those operations are called algebra that's all so relational logical literally means what operations can I do on one table to tables yes you can do it again you can also do intersection yes and",
+        "OCR_text": "Be \u00ab \u00a9\nGW bjtesuscediufessasre., QF Soa\n\nBD vpenotes \u00a9 pp pages Me aTOMtt RF wiki folders Se wikh tne \u201d\n\nmore tables] 4\n\nRelational Algebra\n\n* Theoretical way of manipulating table contents using\nrelational operators\n\n* Relyar: Variable that holds a relation\n\n= Heading contains the names of the attributes and the\nbody contains the relation\n\n* Relational operators have the property of closure\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h56m33s",
+        "frame": "output_frame_3394.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "BEHo*o*O@:|n 9 \u00ab 2G)\n\nSB SF vpwnows @ wpepages BS AIOM11 BF wiki folders wiki nk\n\nRelational Algebra\n\n* Theoretical way of manipulating table contents using\n\nrelational operators \u00a5 =\n* Relyar: Variable that holds a relation |\n* Heading contains the names of the attributes and the ie rolinave cent update. ae\nbody contains the relation\n* Relational operators have the property of closure Ht aol\n\n* Closure: Use of relational algebra operators on existing\nrelations produces new relations\n\nWhat if a table were a datatype (similar to an int, Vec3D,\n\nComplexNumber, etc)?! Specifically, what operations could be\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=0h56m45s",
+        "frame": "output_frame_3406.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Operations on tables [table(s) in, table\n\nout, ie. \"closure\"] y)\n\nThere are (only) EIGHT \u2018relational set operators' (defined by Ed | + i\nCodd, at IBM, in 1970}, which are all used to operate (\"perform\n\nrelational algebra\") on tables: Select, Project, Union, Intersect, |\n\nDifference, Product, Join, Divide. =\n\nThis is no exaggeration: these operators are the basis for SQL i= ti\n\nand the entire relational DB industry!\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h2m40s",
+        "frame": "output_frame_3761.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Relational Set Operators\n\nee\n\n*Unary opemtor that yields a horizontal subset of x table\n\n| __ \"Una opente hat yl veri abe of able\n| =Conbinesall rows rm vo tales, exciting uplaerows\n\n*Union-compatible Tables share the same number of columns. and ther\ncorrespaniiing cohims share compatible domains\n\n* Yields only the tows that appasr in both tables\nTables must be unicn- compatible to vield valid results\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h10m21s",
+        "frame": "output_frame_4222.jpg"
+    },
+    {
+        "audio_transcription": "text and then I have it like an example example example example and then some text and then some example okay they're pretty simple they're all simple have fun like wow card you're smart",
+        "OCR_text": "BF voenores\n\nSELECT [outputs a subset of rows]\n\nFigure 3.4 - Select\n\nSECT iy PRN tot $2.06 ei\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h10m31s",
+        "frame": "output_frame_4232.jpg"
+    },
+    {
+        "audio_transcription": "salad is called a restaurant because your restricted the result of Euros not all the rules it means I give you a table and then I asked you a question like a new statement the selection condition and then you will make sure that your way the condition and give me potentially a small list of rows supposing you have so many arrows the select operator and the one hand depending on what you ask can give you the whole table back supposed to give me all the students more than 0 greater than or equal to 0.00 and 9.5 okay if I have all these columns on the one hand I can tell the project operation just give me all the columns back I just want to check what it looks like ok",
+        "OCR_text": "Sea\n\niki folders wie\n\nSELECT; PROJECT; UNION; INTERSECT\n\nRelational Set Operators\n\nEsai\n\n|___*Unancopertor that yields \u00abhorizontal sibset of x tbe\n\n\u2014\u2014\u2014s\n\n*Combinesall rows from two tables, exctuding duplicate rows\n*Union-compatible: Tables share the sume mamber of columns. and therr\n\nsomresponditig colurms share compatible domains\n\n\u2014\u2014\u2014\n\n+ Yields only the rows that appear in both tables\n*Talbles must be unticn-compatible to viekd valid results\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h10m42s",
+        "frame": "output_frame_4243.jpg"
+    },
+    {
+        "audio_transcription": "The Originals ever",
+        "OCR_text": "CS & bytesuscedu/ 2. Qe BBE\n@ % vprnores @ opcpages S ATOMIY BF wiki folders wv rks\n\nSELECT; PROJECT; UNION; INTERSECT\n\nRelational Set Operators\n\nSelect Restrict)\n\nnary opemtor that yields a-horizontal subset of x table\n\n| ou\n\n| ~Combiesal osm fy bles, exciig pete vs\n\n*Union-compatible: Tables share the sume mamber of costs. and thetr\n_ corresponding colinms share compatible domains\n\nrator that yields a vertical subset of a ta\n\n\u2014 Si\n\n* Yields only the row that appear in both tables\nTables must be unice- compatible to vield valid resulta\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h15m15s",
+        "frame": "output_frame_4516.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "So eo\n\nSELECT; PROJECT; UNION; INTERSECT\n\nRelational Set Operators\n\nSelect (Restrict) -\n\n*Unary opemtor that yields horizontal subset of x table\n\n| ~Cambiesalovs fom tr ables, excaing plete vs\n\n*Union-compatible: Tables share the same mumber of cohvams. and therr\nsomesponding colurins share compatible domains\n\n\u2014\u2014\u2014\n\n* Yields only the rows that appear in both tables\n\u2018Tables must be unice- compatible to vield valid results\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h15m20s",
+        "frame": "output_frame_4521.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "SELECT; PROJECT; UNION; INTERSECT\n\nRelational Set Operators\n\nSB Solect (Restrict)\n\n| \u201cCombines al ows rm vo tbls, xing upc ows\n\n*Union-compatible: Tables share the stme mamber of cohumns. and ther\nsomespondinig colurins share compatible domains\n\n* Yields only the row that appear in both tables\nTables eaust be unicn- compatible to yield valid results\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h16m9s",
+        "frame": "output_frame_4570.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "SELECT; PROJECT; UNION; INTERSECT\n\nRelational Set Operators\n\n[_Ssvasgentat jis sbatmea tof le\n\n*Union-compatibie fcohimms, and their\n\nhare the same nurnb\nare compatible domains\n\n* Yields only the rows that appear ix both tables\n\u2018Tables must be union-compatible to vield valid results\n\n2)\nENG B17 PM\nus at\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h16m13s",
+        "frame": "output_frame_4574.jpg"
+    },
+    {
+        "audio_transcription": "car dealership what's this in one car dealership imagine car dealerships BMW of Glendale BMW of Santa Monica is the one that go in like a Beverly Hills in the middle the one I have a Beverly Hills BMW hire all these sales people hire all these sales people so I want to merge my tables together except Glendale BMW has some extra information until this project give me all these columns but not the date of birth then I'll get everything is 100% volume why not sorry okay no problem",
+        "OCR_text": "SELECT; PROJECT; UNION; INTERSECT\n\nRelational Set Operators\n\nSoleet (Restrict)\n\n*Unasy opemtor that yields a horizontal subset of x table\n\n|\n\n* nary operator that yields a vertical subset ofa table\n\n*Combinesalf rows from two tables, excluding duplicate rows\nhe same number of columns, and thetr\n\n* Yields only the tows that appear ix both tables\n* Tables east be union-compatible to yield valid results\n\nENG\nUS\n\n1714 PM\npages\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h16m16s",
+        "frame": "output_frame_4577.jpg"
+    },
+    {
+        "audio_transcription": "level one",
+        "OCR_text": "WH ita\n\nCf bytesuscedu/eese5\n\n+ 04\n\n@ ep > arom\n\nSELECT; PROJECT; UNION; INTERSECT\n\nRelational Set Operators\n\nfee Select (Restrict) et\n*Vnary openstor that yields a horizontal subset ofa table\nViry operator that yield a vertical subset of table\n\nlL\n\n*Combines all rows from two tables, excluding duplicate rows\n*Uition-compa ible: Tables share the samme number of columns, and their\ncorresponding coltms share compatible domains\n\n*Yields only the rows that appear in both mbles\n*Tables must he union-compatible to yield vatid results\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h17m46s",
+        "frame": "output_frame_4667.jpg"
+    },
+    {
+        "audio_transcription": "I'm going to start giving you an example snap probably the most super powerful because all of sequel phrase ultimately select something okay so it's select and make it a little bit bigger select all first of all these are real sequel commands by the way sorry I just want to make sure my table looks right so then select stars in my little store and pick up only things that are cheaper than two dollars battery 1 0 0",
+        "OCR_text": "@ Rotaticna oe\n\n@ bytesusced\n\n+ pprsisge\n\n\u00a35 sree At yuan\n\n\u2014s\n\nS881 nly PR ro i $2.0 pe om z\n\nSHRECT any PCODE =I) 1452 vies\n\np= |\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h17m47s",
+        "frame": "output_frame_4668.jpg"
+    },
+    {
+        "audio_transcription": "again project followed by a column comma many column names you'll only get the column or the column names again go back to my table that I had before I only want to know the price forget don't tell me about the products I just want to stare at all the different prices we have in our store okay I'll only show you the price point and it can sort them afterwards or give me the part of the description and the price I don't care about IDs know who remembers just tell me the name is usually what research in catalogue",
+        "OCR_text": "Figure 3.5 - Project\n\nSew tae\nPRE] t RE\n\n\u00a9) PROPECT PRICE yields\n\nPRORCE _DESCRUPT sid RICE viele\n\nPROFECT P_CODE snd PRICE yiebts\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h19m21s",
+        "frame": "output_frame_4762.jpg"
+    },
+    {
+        "audio_transcription": "so far so good easy in the Unix command line I can take two different",
+        "OCR_text": "\u00a9 @ Polational\n\nbytes liscedu/eeses/s21 RDS\n\n- ages ATOM. wil\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h20m1s",
+        "frame": "output_frame_4802.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "pitton\n\nCOMONO Wiiwrnet\n\nSeawily Pretrim.\n: \u00b0\ni\n\nRacy tine\nrT H # @ &\ngs nm \u2014\u2014\n\nENG\nUS\n\n620 eM\nzafaet\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h20m7s",
+        "frame": "output_frame_4808.jpg"
+    },
+    {
+        "audio_transcription": "I'll get a new file right that's what the cat command is cat concatenates so cat a I say OK Google",
+        "OCR_text": "FoXv ree DAM @\u00a9B SK SH stecese SO a\n2 s ay\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h20m10s",
+        "frame": "output_frame_4811.jpg"
+    },
+    {
+        "audio_transcription": "we decided to merge and become one hardware store as long as our columns are manageable water P code what have a description what type of price I cannot have a new one where I cut one and put below each other I can put a below a doesn't matter I have a bigger store that has more products now that's all the Union location",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h20m53s",
+        "frame": "output_frame_4854.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "% \u00ae Polat\n\nRelational Set Operators\n\n* Difference\n\n* Yields all rows in one table that are not found in the\nother table\n\n\u00ab Tables must be union-compatible to yield valid results;\n\u00a9 Product\n\n* Yields all possible pairs of rows from two tables\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h23m19s",
+        "frame": "output_frame_5000.jpg"
+    },
+    {
+        "audio_transcription": "suppose",
+        "OCR_text": "Bow BD Bel x AD Pinay ke x | oe =\nCo a bytestisceduessess21 Depso Yeeros Qwer SBHAmwe a O BH 4 (2X)\n\n< Color wh\n\neas\u00bb) |\n\nRelational Set Operators\n* Difference\n\n* Tables must be union-compatible to yield valid results \\ | :\n\n* Yields all rows in one table that are not found in the |\nother table go SS\n\u2018\n\\ |\n\n* Product =\n\n* Yields all possible pairs of rows from two tables \u2014\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h23m22s",
+        "frame": "output_frame_5003.jpg"
+    },
+    {
+        "audio_transcription": "intersection means you know who is here if this set was called a and they said it was called B A Difference B the order matters in our communication a minus b means just this little part who is an A but then who is not going to be so only because the only difference is the weird one so products by the way I don't have to be the same students or anything I can multiply a student table by a restaurant table it's highly do you have in your tablets",
+        "OCR_text": "Relational Set Operators\n\n* Difference\n\n= Yields all rows in one table that are not found in the\nother table\n\n\u00ab Tables must be union-compatible to yield valid results\n\u00a9 Product\n\n* Yields all possible pairs of rows from two tables\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h23m25s",
+        "frame": "output_frame_5006.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "[fens  @ Belational Motling (2\u00b0 >\u00bb al Khost acPilmavy Mes 3\u00a2 J) +f\nCom bytesiiscaduyessesja2 Dapsolevesn Qe SBHAMwe Oe @:]\nQF purcnotes $ pynsages SOM. RF wikifokden Sinks Fore ony. Droobax AH Oul\n\nRelational Set Operators\n\n= Difference\n\n* Yields all rows in one table that are not found in the\nother table\n\n= Tables must be union-compatible to yield valid results\n* Product\n\n* Yields all possible pairs of rows from two tables\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h24m51s",
+        "frame": "output_frame_5092.jpg"
+    },
+    {
+        "audio_transcription": "specifically for joining one way to understand joint is actually do a product and then do a select within the product that is exactly what I'm actually",
+        "OCR_text": "* 6\nf bytesuscedu\n\nDifference [a - b]\n|\n\nFigure 3.8 - Difference\n\nSTLTRRE] EAL DANE] DIFFERENCE ee pane] Hawt inawe | yields\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h24m57s",
+        "frame": "output_frame_5098.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "x AD aman Urinary Bee |e\n{DEDSOIzAEctur Q*e BEAoOwS2*#O6:\n\nProduct [multiply rows, add\n\ncolumns]\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h25m10s",
+        "frame": "output_frame_5111.jpg"
+    },
+    {
+        "audio_transcription": "can I get to join I'm actually show you the joint example will actually do a product like that and then do a select but not yet okay so then we finish the difference in our differences differences again who is",
+        "OCR_text": "\u20ac \u2014@ Pelational\n\nJOIN (several kinds); DIVIDE (?!)\n\nRelational Set Operators\n\n* Join\n\n= Allows information to be intelligently combined from\ntwo or more tables\n* Divide\n\n= Uses one 2-column table as the dividend and one\nsingle-column table as the divisor\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h25m11s",
+        "frame": "output_frame_5112.jpg"
+    },
+    {
+        "audio_transcription": "Franklin is the only one common right saying here they should not be Franklin if you take Franklin Now others are all unique there what about B minus a so who will be in B minus 8 can you tell me who's going to be in this ministers who are the people in other words that is in both if you leave them out from this table if anything that is in both tables you leave them out from this tablet",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h25m26s",
+        "frame": "output_frame_5127.jpg"
+    },
+    {
+        "audio_transcription": "so indifference column attributes are not necessarily no they have to be they have to be in",
+        "OCR_text": "ar)\n\nBarhboo Paper\n\nGC 8 4\n\nDifference [a - b]\n\nFigure 3.8 - Difference\n\nTae] OUFIRENC\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h27m1s",
+        "frame": "output_frame_5222.jpg"
+    },
+    {
+        "audio_transcription": "Union and intersection the column attributes must be identical other way she cannot do a difference okay isn't Franklin",
+        "OCR_text": "x @\n\nDifference [a - b]\n\nFigure 3.8 - Difference\n\nFrvsie| STG] OWFERENCE jen free] eA | yitlds | STu rane\n\neG 62807 PM\nUS. 2 *\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h27m9s",
+        "frame": "output_frame_5230.jpg"
+    },
+    {
+        "audio_transcription": "also in B minus a Franklin Lopez must not wait yeah sure Franklin Johnson is not the one that is in B minus it so I'll give you the answer can you say Franklin Lopez William and Susan Rodgers B George OK Google",
+        "OCR_text": "S\n\n bytesuscedi/esSH5/021 DEOSO1ZAecture: Qe 2 ca\n\nBF vornotes  pormaces SATOMI) 3 wiki folders  wik.links: RF online-only. Dropbox A Cu \u00bb\n\nFigure 3.8 - Difference\n\njE] OWFERENCE\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h27m17s",
+        "frame": "output_frame_5238.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "rimary tem 38]\nBeoaaowds2e @:\n\nProduct [multiply rows, add\n\ncolumns]\n\nFigure 3.9 - Product\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h28m31s",
+        "frame": "output_frame_5312.jpg"
+    },
+    {
+        "audio_transcription": "first of all what does it look like product looks like this free columns three columns just the coincidence and the columns have nothing 0 to do with each other but I put the columns next to each other in product as well happen three six rows three rows 6 * 3 is 18 you will see 18 Ross here because I will take literally the first row here right one two three four five six flashlight flashlight",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h28m33s",
+        "frame": "output_frame_5314.jpg"
+    },
+    {
+        "audio_transcription": "all right so there's many kinds of Joe",
+        "OCR_text": "JOIN (several kinds); DIVIDE (?!)\n\nRelational Set Operators\n\nh\n\nJoin\n= Allows information to be intelligently combined from\ntwo or more tables\n* Divide\n* Uses one 2-column table as the dividend and one\nsingle-column table as the divisor\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h31m40s",
+        "frame": "output_frame_5501.jpg"
+    },
+    {
+        "audio_transcription": "crystal ball inside the joint that",
+        "OCR_text": "Relational Set Operators\n\n* Join t\n* Allows information to be intelligently combined from\ntwo or more tables\n* Divide\n* Uses one 2-column table as the dividend and one\nsingle-column table as the divisor\n\n= Output is a single column that contains all values from\nthe second column of the dividend that are associated\nwith every row in the divisor\n\nANG &\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h31m43s",
+        "frame": "output_frame_5504.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "JOIN (several kinds); DIVIDE (?!)\n\nRelational Set Operators\n\n* Join\n\n= Allows information to be intelligently combined from\ntwo or more tables\n* Divide\n* Uses one 2-column table as the dividend and one\nsingle-column table as the divisor\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h31m45s",
+        "frame": "output_frame_5506.jpg"
+    },
+    {
+        "audio_transcription": "tell me about The Joint that is weird joints usually mean the same student here should be the same student here then this entire row can be joined with the center that is actually what joins mean it doesn't have a little bit different on the other hand there's something that's called equality joint when they join something you join based on equality like this idea is the same as the ID so I'm going to assume unless you're weird that the students University weather of information about that individual can be joined with all this information is not 25 294 joint so it's a compliment therefore you can you know manually do all of this you can do not just say less than you can say if it is less than like if it's off but 10% so 90% the same you know the difference between them absolutely difference between them she'd be less than 10% but they're starting point again ok",
+        "OCR_text": "posing. trimary Kim 382 || +E\nQe BREAGSw5D2O6:\n\nProduct [multiply rows, add\n\ncolumns]\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h31m46s",
+        "frame": "output_frame_5507.jpg"
+    },
+    {
+        "audio_transcription": "that's what it does she looks for common column name or common names it only wants from you on the other hand suppose I call this two ID the Nationals you know that I know that okay but she doesn't know that so then you wouldn't do that you can still join it but now you have a joint condition now you have to say yes I did not write tablet equal to tablets yourself and then things for joining it doesn't matter what the call if you join based on certain columns they're called Joint columns join columns are the ones that except when you join you can join to tables where the columns are not primary keys at all okay here now in Los Angeles California",
+        "OCR_text": "x 6\n\nBariboo Paper \u2014 \u2014\nfe bytesuscedw\n\n@ * open pr pages TOMA) wil folders\n\nTypes of Joins\n\n\u00ae Natural join: Links tables by selecting only the rows\nwith common values in their common attributes\n\n* Join columns: Common columns\n\n* Equijoin: Links tables on the basis of an equality\ncondition that compares specified columns of each\ntable\n\n* Theta join: Extension of natural join, denoted by\nadding a theta subscript after the JOIN symbol\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h35m32s",
+        "frame": "output_frame_5733.jpg"
+    },
+    {
+        "audio_transcription": "you're not restricted by the truth anymore it's not things have to be less things can be more or",
+        "OCR_text": "S\n\nTypes of Joins\n\n* Natural join: Links tables by selecting only the rows\nwith common values in their common attributes\n\n* Join columns: Common columns\n\n* Equijoin: Links tables on the basis of an equality\ncondition that compares specified columns of each\ntable\n\n* Theta join: Extension of natural join, denoted by\nadding a theta subscript after the JOIN symbol\n\n64078 PM\na\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h39m20s",
+        "frame": "output_frame_5961.jpg"
+    },
+    {
+        "audio_transcription": "play not equal like you know make a list of all my enemies okay and then I'm going to go kill them if I have a list of friends anyway so I want to invite people from my birthday party then I would want to pick my friends but no I can invite just making funny little more experience are not completely you know unique what are going to do so all about right okay so when we have two different tables they're trying to do some join operation if the join operation returns rose that are based on the joints so say something and then only based on those roads matching you'll get a new road that is what you think of joining me means I go through every single value",
+        "OCR_text": "JOIN [cont'd]\n\nTypes of Joins\n\n* Inner join: Only returns matched records from the\ntables that are being joined\n\n* Outer join: Matched pairs are retained and\nunmatched values in the other table are left null\n\u00a9 Left outer join: Yields all of the rows in the first table,\n\nincluding those that do not have a matching value in\necond\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h39m27s",
+        "frame": "output_frame_5968.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "S\n\nTypes of Joins\n\n* Inner join: Only returns matched records from the\n\ntables that are being joined\n\n* Outer join: Matched pairs are retained and\nunmatched values in the other table are left null\n\n* Left outer join: Yields all of the rows in the first table,\nincluding those that do not have a matching value in\n\nthe second table\n\n\" Right outer join: Yields all of the rows in the second\n\ntable, including those that do not have matching values\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h40m49s",
+        "frame": "output_frame_6050.jpg"
+    },
+    {
+        "audio_transcription": "can you call them you want your name the columns okay yeah so I'm going to show you the example",
+        "OCR_text": "F opranot per.page TOMI) 3% wri folders wid links: onlineconiy, Dropbor\n\nx \u00a9\n\nCS bytesusceduressiirs21 NBDSOYAAectur Qe BEHow dae @:\n\nTypes of Joins\n\n* Inner join: Only returns matched records from the\ntables that are being joined\n* Outer join: Matched pairs are retained and\nunmatched values in the other table are left null\n\u00ae Left outer join: Yields all of the rows in the first table,\nincluding those that do not have a matching value in\nthe second table\n\n\" Right outer join: Yields all of the rows in the second\ntable, including those that do not have matching values\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h40m52s",
+        "frame": "output_frame_6053.jpg"
+    },
+    {
+        "audio_transcription": "quite the whole Outer inner business",
+        "OCR_text": "Figure 3.10 - Two Tables That Will Be\nUsed in JOIN Illustrations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h41m6s",
+        "frame": "output_frame_6067.jpg"
+    },
+    {
+        "audio_transcription": "when you join and then the result is",
+        "OCR_text": "ay K  @ Relation\n\nCS @ bytesuscedu 51521 BOSOM,\n\n porpages % ATOM.1) wiki folders\n\nNatural join\n\nA natural join links tables by selecting from two tables,\n\nonly those rows that have common (identical) values\n\nfor common attributes.\n\nI\nThese three steps result in a natural join: create\n\nproduct, select, project.\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h41m8s",
+        "frame": "output_frame_6069.jpg"
+    },
+    {
+        "audio_transcription": "list only on",
+        "OCR_text": "fe bytesuscedwy\n\nprt er.page TOMI) 3 wiki folders wil tn\n\nTypes of Joins\n\n* Natural join: Links tables by selecting only the rows\nwith common values in their common attributes\n\n= Join columns: Common columns\n* Equijoin: Links tables on the basis of an equality\n\ncondition that compares specified columns of each\ntable\n\n\u00ae Theta join: Extension of natural join, denoted by\nadding a theta subscript after the JOIN symbol\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h41m13s",
+        "frame": "output_frame_6074.jpg"
+    },
+    {
+        "audio_transcription": "The Valleys matching that is called the energy drink and that is what you normally expect but then for some reason sometimes you think you know I want to know every single my output should consist of every Row in column table a let's call them table light they will be let's call this a left table let's call this right table if not join happens in my result I still want to see every single Row in my left table cuz I like my left table very much so if there are 10 rows here even if the 10 but I want to see all the cameras that is called the leftover joint heals all of the roads in the first table including those that do not have a matching value in the second table for some row that you didn't match anybody I still give you all my right tables even if there's no match for somebody else my results should contain exactly how many of your house or here that is the right original it means I want to see all the roads right here and also all the road here the crazy thing is if you do that because some other roads are not matching you know some of those in here and because I'm here is the interest rate for you but then if you leave the whole order means can be left can be right before all those are called ordering clarify everything so we will do that",
+        "OCR_text": "CS & bytesuscedu\n\n \u00ae poet por.paae TOM.1) 3 will folders\n\nJOIN [cont'd]\n\nTypes of Joins\n\n* Inner join: Only returns matched records from the\ntables that are being jqined\n\n* Outer join: Matched pairs are retained and\nunmatched values in the other table are left null\n* Left outer join: Yields all of the rows in the first table,\n\nincluding those that do not have a matching value in\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h41m15s",
+        "frame": "output_frame_6076.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Figure 3.10 - Two Tables That Will Be\nUsed in JOIN Illustrations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h43m42s",
+        "frame": "output_frame_6223.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "\u00a9 AOM.IY wiki folders H wikh. links: \u201cRF oniine\n\nAa ee aa aa ew\n\nUsed in JOIN Illustrations\n\nTable name: CUSTOMER\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h43m43s",
+        "frame": "output_frame_6224.jpg"
+    },
+    {
+        "audio_transcription": "are sales manager assisted themselves you know to be selling cars like all here you want to find a reward the best employees conversely also want to find the dead weights that didn't sell any cars get rid of them fired them what would you do right you have a customer service person who sold the customer service is equally good 16742995",
+        "OCR_text": "@ bytesuscedwy Sis2'1 DBDSOZAectutes q Beaagew:\n> pram ppr.page TOMI) 3B whl folders hi in online.oniy, Dranber\n\nBR re ee yr pe re\n\nFigure 3.10 - Two Tables That Will Be\nUsed in JOIN Illustrations\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h43m51s",
+        "frame": "output_frame_6232.jpg"
+    },
+    {
+        "audio_transcription": "how do you how can you make a natural join yourself just based on the table names alone you would multiply and then you would select filter some rolls out to get some duplicate and you will get the results with everything was not supposed to throw it out so what if you did this for Walker who really was serviced by you know like say this agent right sorry all the agents that work there so therefore 231 here this is the real world eventually want okay you don't want this information fake news fake news but you're still doing anyway likewise Doris was sold a car by 1:25 so only 1:25 1:25 should match because you see what you did when you multiply",
+        "OCR_text": "Used in JOIN Illustrations\n\n&: CUSTOMER\n\n646506 PM,\na\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h45m8s",
+        "frame": "output_frame_6309.jpg"
+    },
+    {
+        "audio_transcription": "you simply put the customer information and the salesperson information together so now you see why I have to do that because the column name is in there twice the ID also when you multiply you cannot have two columns both Collision Course is a primary key and a foreign key previously but now you want to put the next to each other so we have a little problem so how do we solve the problem we use a table name this is called",
+        "OCR_text": "x +\n\napn Qr GOGH aow de @:\ninks $F online.only.tropbox MH Ou BGM g? \u00a9 phovkes G Asma \"\nCUSTOMER.AGENT_ CODE | AGENTAGENT CODE[AG) \u2019\nWalker 32145 231 125 ble\nWalker 32145 234 167 61\nWalker 32145 (231 21 Be\nWalker 32145 231 333 90\nAdares 32145 128 125 BIE\nAdares 32145185 167 CoE: | ae\nAdares 32145 125 231 ae eel\nAdares 32145 125 333 90 Y \"|\nRakowski 34129167 125 Be | :\nRakowski 34129 167 167 BIE\nRakowski 34129167 231 BIE\nRakowski 34129167 333 90 :\n125 125 \"\n\nRodriguez\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h46m20s",
+        "frame": "output_frame_6381.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h46m51s",
+        "frame": "output_frame_6412.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Rey Bin\n\ntng 6460 PM\nmw 6 5 om 7 O @ 8 \u00ae us zara\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h47m3s",
+        "frame": "output_frame_6424.jpg"
+    },
+    {
+        "audio_transcription": "here before you do the multiplication is not a problem right because you see the engine code was a separate table only one time this table at a primary key agent but now I insist on putting these two columns next to each other and multiplying all the rules so I have Asian code and Asian code so that's not a valid table anymore when I have two different columns you know not the same column name right cuz call them names have to be unique obviously so then we call this temporarily customer Dot",
+        "OCR_text": "Bbw X @ Keisionsl Model X AD Choosing Primary Key: Nanna) 20 |\n\nCSC & bytenuscedy 2\n\n@_ \u00a9 oprnotes $M poroages $M ATOM.AT $F wiki folders wiki links. $F confine only Ciropbox MH Cutl BH GM @P sveedt Be vronced GB H\n\nNatural join: product sear mena\n\nCartesian product of the two tables (product of rows, juxtaposition of columns):\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h47m7s",
+        "frame": "output_frame_6428.jpg"
+    },
+    {
+        "audio_transcription": "Star Wars so far that's all we've done we just simply taken every single customer and because there are four you know sales people doing things just simply repeat then in a 4104 times why we sell this person now you want to do a filter and what will the filter look like the filter would just say give me only all the roads where this column matches this column okay this is a selection of operation",
+        "OCR_text": "Reeycie Bi\n\nood\n= oc SET)\ne 42m 3 28H @ @ 6 s @@ Ae us 27/2021\na P v\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h47m39s",
+        "frame": "output_frame_6460.jpg"
+    },
+    {
+        "audio_transcription": "delete delete delete delete delete delete delete 1:25 p.m. question mark",
+        "OCR_text": "prnotes $% ppr.pages & ATOM,\n\nFigure 3.10 - Two Tables That Will Be\nUsed in JOIN Illustrations\n\n308 8\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h48m5s",
+        "frame": "output_frame_6486.jpg"
+    },
+    {
+        "audio_transcription": "all of those operations",
+        "OCR_text": "@ SF vpnnores $M pprioages $M ATOMAT $F wie; fotders wiki nts FE ontnerohly Dropbox GF Cull BI GM GP Ved @ phoned GB\n\nDIVIDE\n\nFigure 3.16 - Divide ona Thank you\n\nror (cl\nia\n\nas\n\nWe're dividing by A and B in the divisor (bottom) table. There's (A,5) and (B,5) in the dividend (top) table, so\ndividend were to contain (A.9) and (B,9) also, then we'd output 5 9 as the result.\n\n0 8\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h52m16s",
+        "frame": "output_frame_6737.jpg"
+    },
+    {
+        "audio_transcription": "what is the duplicates you know then I think the division operation is not defined yeah that's a very good question should have a unique occurrences that's a great question",
+        "OCR_text": "@ bytesuscedy\n\n@B & oprows * poroses &\n\nData Dictionary and the System Catalog\n\n* Data dictionary: Description of all tables in the\ndatabase created by the user and designer\n\n* System catalog: System data dictionary that\ndescribes all objects within the database\n* Homonyms and synonyms must be avoided to lessen\nconfusion\n* Homonym: Same name is used to label different\nanributes\n\n* Synonym: Different names are used to describe the same\nattribute\n\nA data dictionary is metadata about tables (only);a s vee \u2018ingly\n\nconflated in RL) the data dictionary, and more.\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h55m25s",
+        "frame": "output_frame_6926.jpg"
+    },
+    {
+        "audio_transcription": "is FYI for you system",
+        "OCR_text": "Data Dictionary and the System Catalog\n\n* Data dictionary: Description of all tables in the\ndatabase created by the user and designer\n\n= System catalog: System data dictionary that\ndescribes all objects within the database\n\n* Homonyms and synonyms must be avoided to lessen\nconfusion\n\n* Homonym: Same name is used to Lobel different\nantributes\n\n* Synonym: Different names are used to describe\nattribute\n\n5 (is a supeset of, although confusingly\n\nAnte in DN the ny\n\n16 P00 PM\nUS 024\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h59m8s",
+        "frame": "output_frame_7149.jpg"
+    },
+    {
+        "audio_transcription": "a little louder about everything tutorial",
+        "OCR_text": "X \u2014 & tutol\n\n@ fF vopreorws & pp\n\nSystem Catalog Search\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h59m13s",
+        "frame": "output_frame_7154.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "@ tutctiatetyp.com x & fcr\n@ fF oprcons  poroages $M KTIMAT $F wiki fo wi ints Fc Wet i Rom PVG B i @e my\nPLANNING FOR\nMIGRATION? thew .\n\nconstraints, indexes etc in a database, It \\s\n\nifficult for any\n\nof tables, view\n\nuser to remember all of them. If there is any change request to the table structure of if\n\nmber which table is for\n\nwith the existing design then the developer might n\u00a2\n\nof which table contains which data, what is the domain\u2019< mins or if there is\n\nther\n\nHedin antares\n\nIntelligent Knowledge System - Eliminate Knowledge Gaps\n\na\nfNG The] PM\n\nus 2areet\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h59m23s",
+        "frame": "output_frame_7164.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "@ tutotiateup.cam\n\n@_ F vprnores M porosges W ATOM $F wc foders Wiki inks RF onfine-only Dropoox gH Cutl BV GM @P sve-edi @ plionked GB k\nsys SYSTEM\nBase USER\nTables Views\n\nAd\n\n20x faster PostgreSQL queries -\nSwarm64 PostgreSQL extension\n\nVISIT SITE\n\nIntelligent Knowledge System - Eliminate Knowledge Gaps\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h59m29s",
+        "frame": "output_frame_7170.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "@ tutotialeup.ca\n\n@_ F pprinotes $ poroages SATOMI $F wiki folders wiki iks RF ontne only Lropoox MH Cul BGM \u2014F sVGedt Q ponked Bk m\n\nding on the access rights of the user we have 3 types of USER, ALL and DBA\n\nThe use: lists only those tables and views which are created by the current uSer/schema, It\n\n{oes not list the tables and views of other schemas nar the \u00a2\n\n0 which it has access. It display\n\nonly those objects that are created by it\n\nThe ALL view lists-all the tables end views that are owned by the current user as well as tho:\n\nate created SELL\n\ntables and views te which it has access. That means | lists the\n\nit, and those tables and views of other user/schema to which it has ac:\n\nIntelligent Knowledge System - Eliminate Knowledge Gaps xk\n\ner\nNG 79028 PM\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h59m30s",
+        "frame": "output_frame_7171.jpg"
+    },
+    {
+        "audio_transcription": "can make use of metadata to turn your way it's actually a recommend the query and then give you results pretty fast like this your name so now you are close to these are just IBM details",
+        "OCR_text": "spr.notes @ p\n\nx\n\n@ tutotiateup.com\n\n2\n\n@ Feistiona\n\nOne of the\n\ntabase\n\nystei\n\nyame of the obje\n\new ~ DICTIONARY in the SYSTEM schema provides the details of al\nIMENTS. TABLE_NAME gives the\n\nlumns ~ TABLE_NAME and\n\n\u00a2 database and COMMENTS gives details about ea\n\nihe objects in th\n\nof them,\n\n\u00abNG\n\ney\n70030 PM\n\n37a\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h59m32s",
+        "frame": "output_frame_7173.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "BB bo 2 | @ Reistional Mosteieng 135 x Mo\n\nCh tutotialcupcomyatims/syerem: catalog ht #\n\n@ fF oprnows M pproages WS ATOMAT BZ wvikitorders BW wiki ks F oaline.only Propaox gH Cul BH GM FP sve-edt @ ptoniced\n\n[Description of relation 5 accessible to the user :\n[Descriptions of indexes on tables accessible tothe user io eta\npict [Synonym for DICTIONARY\n[COLUMN PRIVILEGES | Grants on columns for which the users the grantor grantee, owner scotia\n\nHe +obleau\n\n5 Best Practices\nfor Telling Great\nData Stories\n\nIntelligent Knowledge System - Eliminate Knowledge Gaps\n\nWig foe wry tational\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h59m53s",
+        "frame": "output_frame_7194.jpg"
+    },
+    {
+        "audio_transcription": "today's by implementation but the idea is none of this is actual data and that is your transcript data for example",
+        "OCR_text": "@ tutotialcup.com,\n\n@ F vprnows \u00ae poroages ATOM $F wc fotders wie nhs. BF online ony. BH Cul BVM GF sVE-edt @ piionked Gy BERLE He wma y\n\nCONSTRAINT_TYPE\n2 TABLE_NAME ftjoin Fight\nALL_CONSTRAINTS ete It has constraint definitions of the tables\n\nOWNER\nCONSTRAINT.NAME\nTABLE_NAME\nCOLUMN_NAME rT:\n\nONS_COLUMNS POSITION particull> consti\n\nill the columns that are involve\n\nOWNER\nINDEX_NAME\nTABLE_OWNER\nTABLE_NAME\n4 TARI F TYDE\n\nIntelligent Knowledge System - Eliminate Knowledge Gaps\n\ni>\nfig 70052 eM\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=1h59m54s",
+        "frame": "output_frame_7195.jpg"
+    },
+    {
+        "audio_transcription": "what about data data about",
+        "OCR_text": "p0dseIp\n\n\u2018 : 5 eG 705M gy |\n268 FH @ @ \u00ae : vs zanna |\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h0m1s",
+        "frame": "output_frame_7202.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Dictionaries [hold metadata]\n\nData Dictionary and the System Catalog\n\n* Data dictionary: Description of all tables in the\ndatabase created by the user and designer\n\n* System catalog: System data dictionary that\ndescribes all objects within the database\n\n* Homonyms and synonyms must be avoided to lessen\nconfusion\n* Homonym: Same name is used to label different\natnributes\n\n* Syonyms; Different names are used to describe the sa\nattribute\n\nconflated in RL) the data dictionary, and more.\n\nA data dictionary is metadata about tables (only);a system catalog, that includes (is a supeset of, although confusingly\n\ney\nNG TOEOPPM\n\nUS. 024\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h0m3s",
+        "frame": "output_frame_7204.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h3m40s",
+        "frame": "output_frame_7421.jpg"
+    },
+    {
+        "audio_transcription": "this whole extended ear diagram idea is pretty neat so your diagrams already know you connect entities with primary Keys phone case and they have one-to-one to many many many many many",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h3m41s",
+        "frame": "output_frame_7422.jpg"
+    },
+    {
+        "audio_transcription": "play some situations where it'll be great if your diagrams have a little bit more power that I can draw diagrams that Express a little more specifically what you're thinking is supposing I have a table here there's lots of columns to store some information about the table you also have a second table here it also has lots of columns Information Management all of the repeating information now or just one same thing played so mechanic called a there's a that's all the information I have three different functions so much",
+        "OCR_text": "> ve\n\nExtended ER\n\nFile failed to toad https://byles woe ad jcsS8/<21 DRDSO12/res\u2018<tyles/}s/Mathan/jax/output/HTML-CSS/fonts/TeX/fantiatajs\n\nNG POESAPM\nUS 024\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h3m56s",
+        "frame": "output_frame_7437.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Chapter 5\nAdvanced Data Modeling\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h13m36s",
+        "frame": "output_frame_8017.jpg"
+    },
+    {
+        "audio_transcription": "whatever",
+        "OCR_text": "BE lec\nf bytesuscedu/ce\n\n\u00a9 pwsotes F iw| une \u2014 + tou [wn\n\nChapter 5\nAdvanced Data Modeling\n\nraat PM\na\n\nA024\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h13m43s",
+        "frame": "output_frame_8024.jpg"
+    },
+    {
+        "audio_transcription": "extended entity relationship modeling right now we call an extra like I mean the same thing on Monday they just a diagram that tells you the supervisor but with that extra facility this is the only extra thing is it over left and then so then what are the symptoms of a generic generic means it holds information is called specialization so those are the specialization",
+        "OCR_text": "& bytesu:\n\nCO 2 rice & ik\n\nfe\nExtended Entity Relationship Model (EERM)\n\n* Result of adding niore semantic constructs to the\noriginal entity relationship (ER) model\n\n* EER diagram (EERD): Uses the EER model\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h13m47s",
+        "frame": "output_frame_8028.jpg"
+    },
+    {
+        "audio_transcription": "play know if you're a pilot all right so that is all you know you will first of all you would do this in the first place only when you notice well I have so much when your tables are already look fine the professors and students and departments there's no need to do it okay for your homework by the way it might be possible that you can do this and it's optional but it will not penalize you if you don't do it otherwise think in your homework if this is possible all right so that this again says you know the reason why you make a whole bunch of Pilots just because something has to be different for you and you make calling for a reason because not everybody is a fight",
+        "OCR_text": "x mo XO Henwanedoe x\n\nfa bytesuscedu/cs\n\nEntity Supertypes and Subtypes\n\n= Entity supertype: Generic entity type related to one\nor more entity subtypes\n\u00ae Contains common characteristics\n* Entity subtype: Contains unique characteristics of\neach entity subtype\n* Criteria to determine the usage\n* There must be different, identifiable kinds of the entity\nin the user\u2019s environment\n* The different kinds of instances should each have one\nor more attributes that are unique to that kind of\n\n4\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h14m45s",
+        "frame": "output_frame_8086.jpg"
+    },
+    {
+        "audio_transcription": "okay",
+        "OCR_text": "Qn & Bowos@\n\nFl 2 wi BH evil\n\nEntity Supertypes and Subtypes\n\n bytesusce\n\n- eS incpages SM\n\n\u00ab Entity supertype: Generic entity type related to one\nor more entity subtypes\n* Contains common characteristics\n\n* Entity subtype: Contains unique characteristics of\neach entity subtype\n\n\u00a9 Criteria to determine the usage\n\n* There must be different, identifiable kinds of the entity\nin the user\u2019s environment\n\n* The different kinds of instances should each have one\nor more attributes that are unique to that kind of\ninstance\n\nD\n\n \u2014NG M634 PM\nus e024\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h15m36s",
+        "frame": "output_frame_8137.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "ar & Haw\u00bb oase@\n\nf bytesusceduy DROS\n\n- a + + Aton F wih : Bonita, only\n\nand Subtypes j\n\nEntity Supertypes\n\n*\u00ab Entity supertype: Generic entity type related to one\nor more entity subtypes\n\n| mina\n\n* Contains common characteristics\n\n\" Entity subtype: Contains unique characteristics of\neach entity subtype\n\n* Criteria to determine the usage\n\n* There must be different, identifiable kinds of the entity\nin the user\u2019s environment\n\n* The different kinds of instances should each have one\nor more attributes that are unique to that kind of\ninstance t\n\nANG T1641 PM\n\nUS 2Af\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h15m43s",
+        "frame": "output_frame_8144.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Specialization Hierarchy\n\narrangement of higher-level entity supertypes\n1-level entity subtypes\n\nships are described in terms of \u201cis-a\u201d\nbhips\n\nexists within the context of a supertype\nibtype has one supertype to which it is\n\nANG 716\n\nUS\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h15m57s",
+        "frame": "output_frame_8158.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Specialization Hierarch\n\narrangement of higher-level entit;\n1-level entity subtypes\n\nships are described in terms of \u201ci\nbhips\n\nexists within the context of a sup\n\nibtype has one supertype to which it is\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h16m0s",
+        "frame": "output_frame_8161.jpg"
+    },
+    {
+        "audio_transcription": "civilian Pilots military Pilots so only military Pilots the last year you know can you fly like you know like enough 14 can you fly you know the latest episode of flights in a long distance time the other thing I forgot to tell you it's the whole dependency dependents what is the dependent entity called children the whole thing that I told you right and employee can have many like you know children usually only one spouse the whole Insurance table that table is defined at this level because everybody's an employee in other words for that relationship meaning it means this person really I don't need to bring it here is the whole point okay I can avoid doing this you know relationship if you find it at a super class it is understood that subclasses also have them okay so employees and how to pronounce so that Arrow stays right there that's not how to be here but I can do something else but then that can be some kind of really cool dependent relationship and that relationship is also carry it through this wire so then this pilot inherits this relationship inherits dependency and also in her so not only our class members and classes inherited but relationships between entities are also inherited that is the main thing I want to tell you so inheritance means two things this is inherited biology children also this is inherited by all the children if you want to find a way to divide all of this into two parts are inherited meaning what I said was if you make some new relationship that only holds for pirates then for this this and this and if you could draw this and this makes sense but you don't have to because someone had a question mark",
+        "OCR_text": "Specialization Hierarch\n\narrangement of higher-level entit\n1-level entity subtypes\n\nships are described in terms of \u201ci\nbhips\n\nexists within the context of a sup\n\nibtype has one supertype to which it is\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h16m1s",
+        "frame": "output_frame_8162.jpg"
+    },
+    {
+        "audio_transcription": "are the subtypes of protection simulator 100% 100% which is why when I talk about members and methods I don't mean subclasses of the class it's an object orientation you do exactly the same thing when you find writing",
+        "OCR_text": "Specialization Hierarcl\n\narrangement of higher-level entit\n1-level entity subtypes\n\nships are described in terms of \u201ci\nbhips\n\nexists within the context of a sup\n\nibtype has one supertype to which it is\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h19m50s",
+        "frame": "output_frame_8391.jpg"
+    },
+    {
+        "audio_transcription": "okay",
+        "OCR_text": "Specialization Hierarcl\n\narrangement of higher-level entit\n1-level entity subtypes\n\nships are described in terms of \u201ci\n\nbhips\n\nexists within the context of a sup\n\nibtype has one supertype to which it is\neer P=\n\nyp. ING TRECRPM gy\nUS 2\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h20m4s",
+        "frame": "output_frame_8405.jpg"
+    },
+    {
+        "audio_transcription": "all right so then move on and then now I can show you everything and it's",
+        "OCR_text": "Specialization Hierarchy\n\narrangement of higher-level entity supertypes\n1-level entity subtypes\n\nships are described in terms of \u201cis-a\u201d\nbhips\n\nexists within the context of a supertype\nibtype has one supertype to which it is\n\n4, ENG 72230 PM\nUS\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h21m32s",
+        "frame": "output_frame_8493.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Specialization Hierarchy\n\n* Depicts arrangement of higher-level entity supertypes\nand lower-level entity subtypes\n\n* Relationships are described in terms of \u201cis-a\u201d\nrelationships \\\n\n* Subtype exists within the context of a supertype\n* Every subtype has one supertype to which it is\ndirectly related\n\n\u00ae Sonertyne can have many snhtvnes\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h21m37s",
+        "frame": "output_frame_8498.jpg"
+    },
+    {
+        "audio_transcription": "at what time is the employee table because you know it's a primary care really so that's one to one relationship",
+        "OCR_text": "Inheritance\n\nin entity subtype to inherit attributes and\nips of the supertype\n\nsubtypes inherit their primary key\nfrom their supertype\n\nplementation level, supertype and its\n) maintain a 1:1 relationship\n\nbtypes inherit all relationships in which\nentity participates\n\nvel subtypes inherit all attributes and\nips from its upper-level supertypes\n\nING 72027 PM\nUS 2/a/aoet\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h28m29s",
+        "frame": "output_frame_8910.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "* Enables an entity subtype to inherit attributes and\nrelationships of the supertype\n\nAll entity subtypes inherit their primary key\nattribute from their supertype\n\nAt the implementation level, supertype and its\nsubtype(s) maintain a 1:1 relationship\n\nEntity subtypes inherit all relationships in w hich,\nsupertype entity participates\n\nLower-level subtypes inherit all attributes and\nrelationships from its upper-level supertypes\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h28m34s",
+        "frame": "output_frame_8915.jpg"
+    },
+    {
+        "audio_transcription": "my next turn on my table",
+        "OCR_text": "ye Bin\n\nING\nUS\n\n73042 PM\nA021\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h29m44s",
+        "frame": "output_frame_8985.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "ING 73044 PM\nus 2\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h29m46s",
+        "frame": "output_frame_8987.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "\u201ceo\n\nRecycle Bin\n\nENG\nus\n\n73638 PM\n2App021\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h35m40s",
+        "frame": "output_frame_9341.jpg"
+    },
+    {
+        "audio_transcription": "hey Google",
+        "OCR_text": "satychary\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h35m43s",
+        "frame": "output_frame_9344.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "US\n\n2024\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h46m43s",
+        "frame": "output_frame_10004.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "a\n, ENG TATATPM\nF us zamaat\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h46m49s",
+        "frame": "output_frame_10010.jpg"
+    },
+    {
+        "audio_transcription": "can you hear me oh thank you so much",
+        "OCR_text": ">\ng NG TAISTEM gy\nF us zamaet\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h46m53s",
+        "frame": "output_frame_10014.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": " bytesusc-edk\nBS vente \u00a9 oeecose: at ~ Pes oun pe cw tt ononet\n\nWeek#2\n1/27\n\nWeek#3\n2/3\nEER disrame\n\nWeek#4 reece t\n2/10.\n\n, ENG\nUS\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h47m15s",
+        "frame": "output_frame_10036.jpg"
+    },
+    {
+        "audio_transcription": "in the movies you would see that in reality that was a separate image and then this was a separate image the background is blurred is",
+        "OCR_text": "& google.com,\n\nredshift\n\nx | BB Loctive\n\nnuke studio\n\nnode based\n\nSSEanw D2\n\ndepth ren\n\n05 PM\n\nzapeet\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m7s",
+        "frame": "output_frame_10448.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m16s",
+        "frame": "output_frame_10457.jpg"
+    },
+    {
+        "audio_transcription": "make an image in the screen that's a separate message from",
+        "OCR_text": "OD ustp s00gle nuke compositing graph\n\nEa ia\n\n1 Passes 5 Habits Every Nuke\n\nr Nuke: Compositing Basics Deni\u00e9 Shpakay- Nuke Compositi,\n\n61 Compositing in NUKE Best Nuke Tutorials For absolute \u2018ompositin\n\nes eee |\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m17s",
+        "frame": "output_frame_10458.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Google nuke compositing araph\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m21s",
+        "frame": "output_frame_10462.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "GT avancea sta mode x G nuke composing graph x |p To\njpositing+ grapherlr=ICICHBE \u00a2 mags-Alek \u00a5 BEHR we oD 2\n$F wisloiders HS wiki inks RF oniiue.chty Dropbox: MPO HM Gm GP svGes @ phoniced\n\nist Compositing im NUKE est Nuke Tinfials For Absolut ompositing | Experiments in Cd\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m22s",
+        "frame": "output_frame_10463.jpg"
+    },
+    {
+        "audio_transcription": "play holographic like I told you earlier that graph can look crazy so you know visual effects supervisor I understand the graph turn it off just show me only so much you can visually collapse",
+        "OCR_text": "x | Bi tecture\n\n&@ google.com,\n\nGoogle\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m25s",
+        "frame": "output_frame_10466.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "SBSEAawoa\n\u00a9 * poinou 2a TOM.N1 $F wiki oid ink ihie-o0ly Dropbox Ou BM GM @F Sweat @ phonkced\n\n\u00a9 experiments in CG WordPress.com\n\nCompositing | Experiments in CG\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m45s",
+        "frame": "output_frame_10486.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Go gie nuke compositing graph\n\nCarmpoaiting | Experiments in OG\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m48s",
+        "frame": "output_frame_10489.jpg"
+    },
+    {
+        "audio_transcription": "what colors that you see you can leave a little cam",
+        "OCR_text": "ae 5 Habits Every Nuke Beginner St\n\ntion - ZURVAN Animation $\n\nNG -753502M\na\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m52s",
+        "frame": "output_frame_10493.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": ". x | BEE Lecture x\n\n\u20ac \u00a9 & google com/eaarsti7q-nukescompostingar\n\n@ & ppinotes \u00a9 porpses BS ATOM11 BF wie pot\n\nGoogle nuke compositing araph\n\nShader Building in Nuke -Zandria R.\n\n5 Habits Every Nuke Beginner Shou.\n\n\u2018Station - ZURVAN Animation She.\n\na aly\n\nDenis Shpokoy - Nuke Compositing\n\nNG 755522\n\nUS\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m54s",
+        "frame": "output_frame_10495.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "| MD cectur\n\nogle.coamn/e2si\n\nShader Building in Nuke- Zandria R.\n\n5 Habits Every Nuke Beginner Shou.\n\n\u2018ArtStation - ZURVAN Animation Sho.\n\nDenis Shpokoy - Nuke Compositing\n\njoLive - ABERDEEN SHANG\n\neo ome Ah: OBO 8K 8 Mees See\n.\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m55s",
+        "frame": "output_frame_10496.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Nuke Tips\nHide Node Input\n\nShader Building in Nuke- Zandria R.\nNuke Tips -Hide Node Input tatkeke\n\ns Every Nuke Beginner Shou\n\n\u2018Station - ZURVAN Animation Sho.\n\nDenis Shpokoy - Nuke Compositing\n\nENG\n\nUS\n\n15554 PM\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m56s",
+        "frame": "output_frame_10497.jpg"
+    },
+    {
+        "audio_transcription": "there's a graphs can",
+        "OCR_text": "Google nuke compositing araph\n\nder Building in Nuke - Zandria\n\n5 Habits Every Nuke Beginner Shou.\n\nZURVAN Animation Sho.\n\nNuke Compositing Color pass issues Fers Ro}\n\nDenis Shpokoy - Nuke Compositing\n\nNG 7S555PM\nUs 2a/moat\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m57s",
+        "frame": "output_frame_10498.jpg"
+    },
+    {
+        "audio_transcription": "play be hellish additional domain graphs at thousands of",
+        "OCR_text": "\u2018O00dsitp\n\nShader Building in Nuke- Zandria R.\n\n5 Habits Every Nuke Beginner Shou.\n\n\u2018ArtStation - ZURVAN Animation Sho.\n\nDenis Shpokoy - Nuke Compositing\n\n+e > m7 BA @ \u00ae \u00a9 % 8 HB ove anse \u00a9 OM we\n\n2A /R02t\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h54m58s",
+        "frame": "output_frame_10499.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "nod CL) nuke composinngaraphts ae\n\nSBeEnasawwas\n\u00a9 pprnotes \u00a9 porpace ATOMIY 3 whi fol HK inks %F online.osly Dropbox MPO HH aa GF sveean @ phoned\n\nx\n.\nx\n\ni up Nuke script and Nuke Tins Graph infinite Zooey -taukekw\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m4s",
+        "frame": "output_frame_10505.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "ng grap 9 of\n\nQSeaaw\n@ phon\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m6s",
+        "frame": "output_frame_10507.jpg"
+    },
+    {
+        "audio_transcription": "where are you from",
+        "OCR_text": "\u00a7 Habne Every Nuke Seginner sh \u2018nuke | The Composttor Mathemat Whats menu.py, and why should | ho}\n\nENG 7Se0SPM\nus Pao\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m7s",
+        "frame": "output_frame_10508.jpg"
+    },
+    {
+        "audio_transcription": "play",
+        "OCR_text": "Go gle nuke compositing graph from hell\n\nHid a\n\ns Habits Every Nu\n\nampasin vhal's a menu.py,and\n\nENG 75606 PM\nus pages\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m8s",
+        "frame": "output_frame_10509.jpg"
+    },
+    {
+        "audio_transcription": "mini little",
+        "OCR_text": "\u20ac fe ing graphite il d=ZahUKE y\n\nSF wisi toiders Swit mks ZF ontieosly Dropbox Mou Bam PF sv\n\n4\n\nGo gle nuke compositing graph from hell a\n\nNG -7S5R07,EM\nUS.\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m9s",
+        "frame": "output_frame_10510.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "& google.com\n\n*\n@ notes: porpay\n\nae \u00a7=<oogle nuke compositing graph from hell\n\nReading Audio Files imo the Node Graph Nuke | General Ul: Node Graph Basics\n\n1e8 of Nuke | Nuke { Foundry\n\n>\nan *\n\nGlobal\n\nNuke vs After Effects | Head-to-Head ndustral Strength Traung for VFX the bloody parts Nuke Video\n\nENG. 75608 PM\nZp\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m10s",
+        "frame": "output_frame_10511.jpg"
+    },
+    {
+        "audio_transcription": "where is Cameron",
+        "OCR_text": "\u00abNG\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m11s",
+        "frame": "output_frame_10512.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "ENG 750M\npegs\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m12s",
+        "frame": "output_frame_10513.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "nuke compositing graph from hell a\n\nBr\n\nNuke Tips\nHide Node Input\n\nNuke Tips taukeke Beet Nuke Tutorials For Absolute Nuke |'Stefan thringer\u2019s Comp\n\nHide Note Input\n\nNG 7561) PM\n2PpRoa4\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m13s",
+        "frame": "output_frame_10514.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Fw\n\nGo gle nuke compositing graph from hell\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m14s",
+        "frame": "output_frame_10515.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "@ fF vines +\n\nnuke compositing araph from hell\n\u2018Navigating inoide the Nowe Graph \u00a5 Thee wrong\nhar tab ti\n\nEnhancing the blo Nuke Video Crenting Camatw Noise\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m17s",
+        "frame": "output_frame_10518.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Go g le nuke compositing graph from hell\n\namenu.py:and why shauld | have Steffen Hampel - Su 1c: Road foudiniGhops ~cqwiks X Compositing with Nuke: invisib\nbenmcen nt ane parse 988 rn\n\nator: Tutariols\n\nNatron =discuss key.co\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m31s",
+        "frame": "output_frame_10532.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "x | Bi tecture\n\n& google com/cenrcti7q=nulke positing + graph efrom =helle&thm=sech an UKEwjandzi\n\n@ fF vpinowes \u00a9 pornaaes S ATOMI1 BF wikifoiders wiki inks SF online only Dropbox gH Our\n\n| have Steffen Hampel Sun Houdinic th Nuke\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m32s",
+        "frame": "output_frame_10533.jpg"
+    },
+    {
+        "audio_transcription": "sonor",
+        "OCR_text": "Go g le nuke compositing graph from hell\n\nWy shoul f have aifen Hamp} er Road foudiniBhops \u00bbcqwik with Nuke: invisible\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m33s",
+        "frame": "output_frame_10534.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "nuke compositing graph from hell\n\nWhat's & manu py, atv why shoul | have stiffen Ham Houdiniahaps- cqwik VFX Compositing with Nuke: invisible\n\nKey Concepts ActStetion - Joseph Chen Paper Cup\n\nThe rest of the results might not be what you're looking for.\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m34s",
+        "frame": "output_frame_10535.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "ANG 756:\nUs 2ammdat\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m35s",
+        "frame": "output_frame_10536.jpg"
+    },
+    {
+        "audio_transcription": "a lot just one last time you know be quite",
+        "OCR_text": "nuke compdkiting graph from hell\n\nNuke updates 1 Compositing, Editorial Habits Every Nuke Beginner Sho nuke | The Camposttor Mathernat hors 2 menu.oy. ard why should hal\n\nNuke 1A Graphical voyage by Dhaval Pan\n\nnenu.py, and why should | naw nuke Memes & Gifs -imoflip\n\nENG\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m36s",
+        "frame": "output_frame_10537.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "@ google com,\n\n\u00a9 @ ppinores \u00ae porvage ATOM. 3 wi fold ieinks\n\nGoogles node graph from hell BLa\n\no News Shopping} More Setting\n\nblueprint unreal engine weighted\n\nENG 75640 PM\nUS 024\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m42s",
+        "frame": "output_frame_10543.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "er 7\nENG 75643.PM\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m45s",
+        "frame": "output_frame_10546.jpg"
+    },
+    {
+        "audio_transcription": "therefore collapsing them",
+        "OCR_text": "x | MB vecture\n\n\u00a9 sboutblank\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m48s",
+        "frame": "output_frame_10549.jpg"
+    },
+    {
+        "audio_transcription": "Play It's the only solution",
+        "OCR_text": "x | [TE sectors x | @ BRpaveceadn x | Ss\n\nfom) x Wi) Mason weune oe\n\nCC & twittercom/da vie chick/srant e064 e SAHA wD \u00ae) om\nSf pornores @ porpaces BS ATOM In BWowid folders Se wiki inks F y.0 Mom Bam PF svcd @ pho ed\n\nw \u00a9 Tweet Q Search Twitter fone\n\n@ Mariana Acufia-Acosta 0\nfa | thought 1 seen some coms fam fal back nthe ay in eNUKE Relevant people bach\nguess its all subjective after seeing these \u00aeBlucPnnts from hell in #uszA\n# vn Mariana Acu.. ss\nSee int |_ Follow\ng@ Technology Strategist Pixel\u201d\n\nobsessed = Geek : VR/ARVAL orem\n\nMe 1455705681010. jpg show all x\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m53s",
+        "frame": "output_frame_10554.jpg"
+    },
+    {
+        "audio_transcription": "so the date of flowers that complexion only input images get fed in and finally your movie appears to go over there",
+        "OCR_text": "G) Weitiercordawecciiciyatat\n\nategist \u00ab Pixel\nVR/AR/AL\n\nWhat's happening\n\nHouse to vote to remove ?\n\nRep, Marjorie Taylor\n\nGreene from committee me, a\nroles sng with omnia\n\n#ChobaniCoffeeCreamer\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h55m56s",
+        "frame": "output_frame_10557.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h56m5s",
+        "frame": "output_frame_10566.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "de-arapi tom |) > | MW 13) Maruca cone 2) 1\n\nSD Dw WD B\u00ae) ttcmeorersi\nHK inks RF online ovy Dropbox eB Om BH Gm GF sveen @ phoned\n\nBh oc x | By vector\n\n@ bytes. uscedu/cs585/s21 DB\n\nx\n\nChapter 5 ais\nAdvanced Data Modeling\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h56m13s",
+        "frame": "output_frame_10574.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "CS & bytes. usredu/es526/521, DADSO12ImctyresEERVslidlec ite\n\n@ fF pprnotes \u00a9 porpages\n\n* BGOaes\n\n|\nExtended Entity Relationship Model (EERM)\n\n* Result of adding more semantic constructs to the\noriginal entity relationship (ER) model\n\n* EER diagram (EERD): Uses the EER model\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h56m17s",
+        "frame": "output_frame_10578.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "al subject\n\ney\nENG 75752 PM\nUS 2ammgat\n\n@\n\\@\ns\n|\no\ni]\n\"@\n\\a\na\nSS\n=|\n:\na\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h56m54s",
+        "frame": "output_frame_10615.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Cf twittercom/da te chuekistatus'11 231466501 13368064 be\n\n@ & oprnoter \u00a9 pornsces ATOM dirs vwilalinks $F anlirie. onl: ropbe\n\nWhat's happening\n\nHouse to vote to remove\nRep. Marjorie Taylor\n\nGreene from committee\nroles t\n\n#ChobaniCoffeeCreamer\n\nsie ry\n\nENG\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h56m55s",
+        "frame": "output_frame_10616.jpg"
+    },
+    {
+        "audio_transcription": "columns from multiple parent tables wow it looks the opposite of you know a single parent employee Pilots so I'm going to show you that now so we can do this right now",
+        "OCR_text": "@ byes.uscedu/essi\n\n@ & wprnote: @ porno @ ATOMI dere \u00ae wll fnks $F cnline.anly Proper eM Out! BAG GP SvGedt @ phonkied\n\nBelow, you'll Find links to the lecture and discussion notes,\n\nThe notes are in the Form of browser-based slides [not PDF or ppt], but you can create\nPDFs out of them by \u2018printing to PDF\u2019 using Chrome [you might need to install a PDF\ndriver], in \u2018landscape\u2019 [not \u2018portrait\u2019] orientation,\n\nSpeaking of discussions - we'll have lecture from 5-7:30, and discussions from 7:40-8:20,\nDuring discussion time, YOU [collectively speaking] need to be speaking more than me:)\nI'll bring up questions, topics etc. For us to talk about. We'll try to cover new ground during\nthis time, and not use it as a chance to go over all the existing slides; the best use of the sing wits comin\ndiscussion slot is when we can talk about \u2018peripheral\u2019, and additional items, compared to _\nlecture notes.\n\nAlso, here's our \u2018whiteboard:\n\nWeek#1\n1/20\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h56m56s",
+        "frame": "output_frame_10617.jpg"
+    },
+    {
+        "audio_transcription": "play Closer to another time because what I'll show you now is actually a little bit more important",
+        "OCR_text": "Cf bytesuscedu/es5! S01 2/lectures/discusstons/wZ html Qex BQEAGwMOA\n\nOf penis \u00a9 preproe S MOMT 3 wile iin pbc MB Cutl BA GM GP SVGeAt @ phankied ashe\n\neS Ser RHe Ce re ERIN ER BETES\n\nExamples of \u2018blind' (non-identifying) keys in RL?\nHow can we use tables to model unary relationships?\n\nClosur,\n\n0 a relational one?\n\nMe 145579568, 10108 jpg\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h57m32s",
+        "frame": "output_frame_10653.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "em xo\n\nCc f@ bytesuscedu/es5i ) res/index.hin Qt Heiwonr\nOf ppenotes \u00a9 prrmacs \u201c@ AGMI) 3F wiklfoldos @ wileinks animeonly. oper GM Gull BAGH GF SvGedt @ 5 4\n1/27\n\nDiscussions\n\nWeek#3\n2/3\n\nWeek#4\n2/10\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h57m36s",
+        "frame": "output_frame_10657.jpg"
+    },
+    {
+        "audio_transcription": "play places in the world",
+        "OCR_text": "Cf bytesusceduyess\n\nee es \u00a9 sos\n\nYour own examples of fay\n\nTo implement overlapping subtypes, the textbook reco\n\ncolumns in the parent entity, one for each subtype.\n\na. How would you do this (in the parent), with just a single column instead?\nb. How would you do this, using a separate table along with the parent? What's the\n\nadvantage of doing so?\n\nFYI -in addition to subtypes with disjoint/overlapping/total/partial constraints (which |\n\nlooked at), it's also possible to have a \u2018union subtype\u2019 [where we subclass from multiple\n\n1\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h58m2s",
+        "frame": "output_frame_10683.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "2D ptiipsges \u201c\u00a9 TON\n\nYour own examples of fay\n\nTo implement overlapping subt\n\nusing binary (Boolean)\n\ncolumns in the parent entity, on:\n\na. How would you do this (in the n instead?\n\narent? What's the\n\nb. How would you do this, using\n\nadvantage of doing so?\n\nFYI - in addition to subtypes with disjoint/overlapping/total/partial constraints (which!\nlooked at), it's also possible to have a \u2018union subtype\u2019 [where we subclass from multiple\n\n% 4:\n\ney\nENG 75901 PM\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h58m3s",
+        "frame": "output_frame_10684.jpg"
+    },
+    {
+        "audio_transcription": "okay",
+        "OCR_text": "Your own examples of EER?\n\nTo implement overlapping subtypes, the textbook recommends using binary\n(Boolean) columns in the parent entity, one for each subtype.\n\na. How would you do this (in the parent), with just a single column instead?\nb. How would you do this, using a separate table along with the parent? What's\n\nthe advantage of doing so?\n\nFYI - in addition to subtypes with disjoint/overlapping/total/partial constraints\n\n(which we looked at), it's also possible to have a \u2018union subtype\u2019 [where we\n\nMe 145579558 _10106...ypq Stow all\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h58m8s",
+        "frame": "output_frame_10689.jpg"
+    },
+    {
+        "audio_transcription": "yes you can hold many kinds of so-called financial instruments you can hold you know assets of many types of Now Stocks bonds you know jewelry real estate and they can further be subdivided system requirements you need to explain what that means because I don't understand different categories are you talking about something that you want back up on different categories exactly in a supermarket in fact on the wall down the real one that's actually so you know in other words in the future",
+        "OCR_text": "& bytesuscedli/ess\n\nSop \u00a9 sjoN\n\nYour own examples of EER?\n\nTo implement overlapping subtypes, the textbook recommends ug\n(Boolean) columns in the parent entity, one for each subtype.\n\na. How would you do this (in the parent), with just a single column\n\nb. How would you do this, using a separate table along with the p.\n\nthe advantage of doing so?\n\nFYI - in addition to subtypes with disjoint/overlapping/total/partial constraints\n\n(which we looked at), it's also possible to have a \u2018union subtype\u2019 [where we\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=2h58m33s",
+        "frame": "output_frame_10714.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Google tinnaeus taxonomy\n\nENG BOTT PM\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h0m13s",
+        "frame": "output_frame_10814.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "oa\n4 ENG (B0235PM\n# is iano\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h1m38s",
+        "frame": "output_frame_10899.jpg"
+    },
+    {
+        "audio_transcription": "what would be the advantage of using two tables",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h1m46s",
+        "frame": "output_frame_10907.jpg"
+    },
+    {
+        "audio_transcription": "what do you want to apply it's going to be a simple select statement and it doesn't really and I guess another city and if I want to worry and if I want to create like if I want to record the actual human readable name accumulate like job description",
+        "OCR_text": "Bamboo Paper\n\n\u201cA\nco\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h1m51s",
+        "frame": "output_frame_10912.jpg"
+    },
+    {
+        "audio_transcription": "who's the machine readable columns and I will be able to",
+        "OCR_text": "@QO\u00b0>\n\nColor wheel v\n\nANG 8\nUS\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h3m39s",
+        "frame": "output_frame_11020.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h3m44s",
+        "frame": "output_frame_11025.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Cc a bye\n\n: DS pp pag:\n\nYour own examples of EER?\n\nTo implement overlapping subtypes, the textbook recommends using\n\nbinary (Boolean) columns inthe parent entity, one for each subtype.\na. How would you do this (in the parent), with just a single column instead?\n\nb. How would you do this, using a separate table along with the parent?\n\nWhat's the advantage of doing so?\n\nFYI - in addition to subtypes with disjoint/overlapping/total/partial\n\nconstraints (which we looked at), it's also possible to have a \u2018union subtype\u2019\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h9m0s",
+        "frame": "output_frame_11341.jpg"
+    },
+    {
+        "audio_transcription": "what happened to the Staples Center what could be a primary key column or what combination could be a primary",
+        "OCR_text": "FUMESTAEE TIME re\n\n330M IW [ Boriniza | Adagin otice\n\nGonanas | Boy seouts\n\nNG 81772 PM\n\u00e9s xno\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h16m14s",
+        "frame": "output_frame_11775.jpg"
+    },
+    {
+        "audio_transcription": "combination of room and event name a woman named you know even names can actually be like you know similar what if all events call birthdays date and event time date and time room start time and time start time and the same many events can start and end at the same time but they can happen in multiple rooms right so just include all the details about the place and the time basically need the combination of everything that makes the time you make and the place but then the problem with that is it's like a lot of data you know so much information but I want to ask you",
+        "OCR_text": "ee o + ee SATOMI BY\n\n| \\1:00AM Allure Burton Wedding a\n[11:00AM :00PM___| Bonanza ns Office\n\n| 3:00PM 3:30PM Allure | Snuth Family vo ae\n| a30PM i Bonanza | =a)\n\n[1:00PM [B\n\nyanza\n\nT1;00AM_\n11:00AM 12:30PM Bonanza\n\n2015\n\nENG B1718PM\nUS 28\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h16m20s",
+        "frame": "output_frame_11781.jpg"
+    },
+    {
+        "audio_transcription": "what about so what is special about Caleb what is this look at the same age what are we looking",
+        "OCR_text": "Syllabus, schedule, notes\nBelow, you'll Find links to the lecture and discussion notes.\n\nThe notes are in the Form of browser-based slides [not PDF or\nppt], but you can create PDFs out of them by \u2018printing to PDF\u2019\nusing Chrome [you might need to install a PDF driver], in\n\nSe eh ers ee eed th ae te\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h18m32s",
+        "frame": "output_frame_11913.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "Barer beta Per Ea\nprecimeeraend i\n\nfee toe\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h18m41s",
+        "frame": "output_frame_11922.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "byresuscedu abso tz vlectin\n\nCOMMON DENTAL PROCEDURE CODES USED IN DIRECT CARE PROGRAMS\n\nDental Data Reporting System ofthe IHS accepts af\nBrocade codes iste in the Current Dental Taninoiogy\n(COT) published by the Amencan Dental Associeton 2s\nwok as unigue codes (in botelace) crested by the TKS.\n\nse ctesam ccles: The 0114 Sereanng Exar is used\nwhen no derial chan is made (\u00a2.lage grurs of schoo!\nflares). The 00180 Pretier-focisas Examination &\nFemies ta dagnosing \u00abspecie, ugert prabiem (Gera\nemergancy). lean be reported each te an nid\npresents wth 2 preter, bul o! wih cher exam codes at\nthe same appointed The D9130 Conprenecsive Exam\nIncades me compleon of \u00abnew oral Posh recor. att\nthan updting on asting chat whic s when te 0120\nFPavadie Exam should be repaid, The 0960 Exansive\nProblem tocvsed Exam may be uted fie # 00120\n1DorS0 haa been recat raid, when patie eae 8\nSealed troatmart lan fra soacfe probiom (eg. 8 case\nworkup for peocoantis.prosthadontis,atasorice 0\u201d\nx9! sige) The DOTED evaluation maybe documented\na epoca ors ni of be or heath voce uses.\n\u2018ouenel fr tbe 00120 and DO180 codes The DOI80 is\n\u2018ed fot comprehensive pedontal exainaicrs of\nBalers wit signs or syngcoms of paroaonia disease or\nfokiacor (ep Sabet, enoking)\n\nPERSONS SERVED (ENCOUNTER CODES)\n(0000 First Visit (of fiscal year bythe patient)\n\u20180180 Dental Revisit (For Any Reason)\nBBTO/ECC Dental Patent\n\nHead Start Program Dental Patent\nHighvrisk Periodontal Patient,\n\nDiabetic Screening Procedures\n\nDiabetic Referral Or Follow-up\nHypenension Screening\n\nHypensension Reterral Or Followup\nDental Vist, Pre-Natal Mother\n\n\u2018Dental Visit, Nursing Meher\n\nPlanned Treatment Completed\n\nPtinnt Refine Racrammanited Treatmant\n\nona7e\n0273\ne274\n00390\naso\ne880\noes\n480\nDos70\nost\n\nPREVENTIVE SERVICES.\n\npinto\nD170\n1203\n01204\n21208\n1310\n01320\n1330\nDiss\nDis10\nisis\ni550\n188s\n\nRESTORATIVE DENTSTRY\n\naia\nbasse\nbareo\n216\npase\np23\naasz\n2235\n02386\nD230\nb20e7\n\nOu Ban\n\n\u2018Beenings. Two Fiens\n\u2018itewings. Throe Fama\n\nBhewings. Four Fine\nPanoramioMaxila And Mandible File:\n\u2018Gephalometic Fim\n\nravFacial mages\n\nGaris Suscaptbitty Test\n\nPulp Vitaly Tests (Per Que)\nDiagnostic Gusta (Fer Sett\nDiagnoste Protegraprs\n\nrophylauis, Adult (Permanent Dantiton\nProphylaxis, Chi (Primary or Mead Denton\nTopical Frucride Nat inctuding Prophy-Chid\nTopical Fuoride Nat Induting Prophy-Adult\n\u201cTopical arise Varnish (mod tqcygh ak ps)\nNotrtional Counseling Far Oral Hadiin\nTobacse Use Counsaling\n\nral Hygiene Instructions.\n\nSealant (ons tooth)\n\nSpace Maintaiver. Fre Unilstera)\n\nSpace Mainaines Fos Biataral\n\nSpace Maintainer. Recervantation\n\nRemoval of Fixed Space Naintaine\n\n\u2018Amnaigary, One Surface (Pac ex Perary)\n\u2018Amalgars, Two Strtice (Perm ce Primary)\n\u2018Amalgam. Three Surface (Perm or Primary)\n\u2018Arnalgary, Foure Surtaces (Pern or Pi\nComposite Resin, Ona Surface, Anterior\n\nComposite Resin, Two Suraces, Anterior\n\n\u2018Composit Retin, Three Surfaces, A\n\u2018Composite Retin, Four Surfaces o* Inc\nCompote Resin Crown, Artener\nComp Resin. One Surf Post. Parm cr Prim inchides PRR)\nCompost Rosin, Two Surfaces, Fost. (arm cr Primary)\n\nent @ Py jrSMART\n\n0203} Crown-Staiiess Steel, Pere 7\n\n2032 Crown-Pretab Ras, Primary Te\n\n02840) Sexatve Fling\n\n12950 Core Buildup, Including Any Pina\nin Retention (Per Tooth) Excied\nost And Core (Pret), Exc! Ci\nTemporary Grown (tracted tot\n\nENDODONTICS\n103119. Puip Cap, Dirac (Excluding Fina\n193220 Vil Pulpotorny, Primary o* Par\n05221. Pulpal Debederent. Pikmary or\n103222. Paria| Pulpotomy for Apexozenal\n13233. Pulp Therapy. Primary Antavioe\n103240. Pulp Therapy. Primary Posterior\n1D3319. Endodontic Fil, Anterior\n\n03320 Endodontic Fil, Beuspid\n103329. Endodontic Fil, Molar\n\n103348. Retreat Pravious Endo Fil~ An\n(02047 Retreat Previous Endo Fil -Bicw\n109348. Retreat Previous Endo Fil -Moler|\nD3S51_ ApexticationRecalaly, tnt\u2019 Vi\n\n13352 Apaxtication/Recalaty, Inter,\n03383 ApenficationRecaloly, Firai Vis\n\n3410. Apicosciomy/Penradicula Surg\n\n\u201803430 Retrograde Filing, Per Root\n\n103980  Fiting For Pretormed Dowel\n\n103960 Bleach Orscolered Tooth (Vital or Nor-Vita)\nPERIODONTICS\n\n14210 Gingivectomy Or Gingiopiasty (4 oF more cont\n4211 Ginglvecromy Or Ginghopiasty (110 3 teeth)\n124240. Gingival Flap Pree. w Root Planing (4 o* mare\nD4241_ Gingival Fiap Proc. w/ Root Praning (1 to 3 tet\n(04248. Crown Lengthening Pree. - Hurd Tue\n\n(04260 Ossecus Surgery (\u00a2 oF more contig. tet)\n4265 Osseous Surgery (1 to 3 teetn)\n\nA2KS Roce Reniacament Gra, First Sie ty Quscrank\n\n\u00abNG\n\n81940 PM\n\naoe\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h18m42s",
+        "frame": "output_frame_11923.jpg"
+    },
+    {
+        "audio_transcription": "dental procedure codes",
+        "OCR_text": "Cf bytesuscedu/ess3: BOSOTZvlectures/d\n\n@ @ pornctes P ponnsaes SM ATOM.AT SE wiki fol :\n\nDNS SERVED (ENCOUNTER CODES)\nFirst Visit (of fiscal year by the patient)\nDental Revisit (For Any Reason)\nBBTD/ECC Dental Patient\nHead Start Program Dental Patient\n\ni Periodontal Patient,\nDiabetic Screening Procedures\nDiabetic Referral Or Follow-up\nHypertension Screening\nHypertension Referral Or Follow-up\nDental Visit, Pre-Natal Mother\nDental Visit, Nursing Mother\nPianned Treatment Compieted\nPatient Refuses Recommended Treatment\n\nIOSTIC SERVICES\nPeriodic Oral Evaluation (update existing chart)\nLimited Evaluation-Problem Focused (Emerg. Exam!\nOral Evaluation for Patient under 3 years of age\nComprehensive Oral Evaluation (new chart made)\nExtensive Oral Evaluation-Problem Focused\nComprehensive Periodontal Evaluation\n\n$F aniline. sly. ch Me Ou BAM PF Sera @ vil\n\nWwLU OPEue Wannante!, NewEI ISAT\n\n11555 Removal of Fixed Space Maintainer\n\nRESTORATIVE DENTISTRY\nD2140 Amalgam, One Surface (Perm or Primary)\n12150 Amalgam, Two Surface (Perm or Primary)\nD2160 Amalgam, Three Surface (Perm or Primary)\n\n02161 Amalgam, Four+ Surfaces (Perm or Primary)\n02330 Composite Resin, One Surface, Anterior\n\n02331 Composite Resin, Two Surfaces, Anterior\n2332 Composite Resin, Three Surfaces, Anterior\n12335 Composite Resin, Four Surfaces or Incisal\n\n12390 Composite Resin Crown, Anterior\n\n02391 Comp Resin, One Surf., Post., Perm or Prim (includes\n\n2392 Composite Resin, Two Surfaces, Post. (Perm or Prima:\n(2393 Composite Resin, Three Surfaces, Post. (Perm or Prim:\n12394 Composite Resin, Four Surfaces, Post. (Perm or Primar\n2740 Crown-Porcelain/Ceramic Substrate\n\n12750 GCrown-Porcelain Fused To High Noble Metal\n\n02751 Crown-Porcelain Fused to Base Metal\n\n02752 Crown-Porcelain Fused To Noble Metal\n\n02790 Crown- Full Cast High Noble Metal\n\nD2791 Crown-Full Cast Base Metal\n\nNG. Bi9at PM\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h18m43s",
+        "frame": "output_frame_11924.jpg"
+    },
+    {
+        "audio_transcription": "meaning I'm not asking",
+        "OCR_text": "f bytesuscedw jectures/d\n\n invcmsaes  ATOM.AY SE whi foldors  $ swki links\n\nBoi\n\nfiscussi0 s/Dentaltodes png\n\nx\n\nOo\nyee\n\n@Q\n\nSai\n\nwe\n\nfine.only. Coin i Outi BA GM @ SV\n\nCOMMON DENTAL PROCEDURE CODES USED IN DIRECT C ''\"\n\nntal Data Reporting System of the IHS accepts all 0272 Bitewings, Two Films\nlure codes listed in the Current Dental Terminology 0273 Bitewings, Three Films.\npublished by the American Dental Association as 00274 Bitewings, Four Films\n\nUnique codes (in boldface) created by the IHS. 10330 Panoramic-Maxilla And Mandible Film :\n\n00340 Cephalometric Fiim oi\nThe 0114 Screening Exam is used\n\n0 dental chart is made (e.g., \u2018ane groups of school 00360 Oral/Facial Images\n\n). The DO0140 Problem-focused Examination is D0425 Carles Susceptibility Test a\n\nto diagnosing a specific, urgent problem (dental D0460 Pulp Vitality Tests (Per Quad)\npricy), It can be reported each time an individual 00470 Diagnostic Casts (Per Set) Eecearenie\nits with a problem, but not with other exam codes at (10471 Diagnostic Photographs\n\nle appointment. The D0150 Comprehensive Exam\njs the completion of a new oral health record, rather PREVENTIVE SERVICES . se tose\npdating an existing chart, which Is when the 00120 01110 Prophylaxis, Adult (Permanent Dentition)\nic Exam should be reported. The 00160 Extensive D1120 Prophylaxis, Child (Primary or Mixed Dentition)\n\nfocused Exam may be used after a 00120 or 01203 Topical Fluoride Not including Prophy-Child\n\nhas been recently reported, when patients require 4 11204 Topical Fluoride Not Including Prophy-Adult :\nH treatment plan for a specific problem (e.g., a case D1206 Topical Fluoride Varnish (mod to high risk pts) se\nP for periodontics, prosthodontics, orthodontics or D1310 Nutritional Counseling For Oral Health b\ngery). The 00160 evaluation may be documented 11320 Tobacco Use Counseling\n\njal forms in lieu of the oral health record used\n\nD1330\nfor the D0120 and D0150 codes. The D0180 is\n\nmines\n\nMe 145579568. 10108...jped\n\nOral Hygiene Instructions\n\nCratant (nar tnnth\\\n\nShowall x\n\nENG: 81945 PM\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h18m48s",
+        "frame": "output_frame_11929.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "MPs XO idwen XB oew x BHew x | Mew x\n\n bytesuscedu/rsst5/sz SON a/loctan r\n\n\u00a9. Sbienster S poepade: Se AOMIT BE wikuiodes & 3S \u2018onthe 0 ont os\n\nCOMMON DENTAL PROCEDURE CODES USEL\n\nntal Data Reporting System of the IHS accepts all 00272 Bitewings, Two Films\njure codes listed in the Current Dental Terminology 00273 Bitewings, Three Films\n\n10274 Bitewings, Four Films\n\nunique codes (in boldface) created by the IHS. 100330 Panoramic-Maxilla And Mandible Film .\n\n- 00340 Cephalometric Fiim @\n\nS: The 0114 Screening Exam is used a\n0 dental chart is made (e.g., eee cieine of school 00350 Oral/Facial Images .\n), The D0140 Problem-focused Examination is 00425 Caries Susceptibility Test\nto diagnosing a specific, urgent problem (dental 10460 Pulp Vitality Tests (Per Quad)\npncy), It can be reported each time an individual 00470 Diagnostic Casts (Per Set) =\"\nwith @ problem, but not with other exam codes at 10471 Diagnostic Photographs\n\ne appointment. The 00150 Comprehensive Exam\nis the completion of a new oral health record, rather PREVENTIVE SERVICES\nbdating an existing chart, which is when the D0120 11110 Prophylaxis. Adult (Permanent Dentition)\nic Exam should be reported. The D0160 Extensive D1120 Prophylaxis, Child (Primary or Mixed Dent\nfocused Exam may be used after a D0120 or 11203 Topical Fluoride Not including Prophy-Chi\nhas heen recently renoed when natients require a 12N4 Topical Fluoride Not Includina Proohy-Adi~\n\nNG 81947, PM\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h18m49s",
+        "frame": "output_frame_11930.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "@ bytesuscedul\n\nQf vornoter \u00ae pornos\n\n00272\n00273\n00274\n0330\n00340\n(1D0350\n0425\n0460\n00470\n00471\n\nPROM BF wiketotders -H whi.tnks ZF oni\n\nBitewings, Two Films\nBitewings, Three Films\n\nBitewings, Four Films\nPanoramic-Maxilla And Mandible Film\nCephalometric Film\n\nOrai/Facial Images\n\nCaries Susceptibility Test\n\nPulp Vitality Tests (Per Quad)\nDiagnostic Casts (Per Set)\nDiagnostic Photographs\n\nPREVENTIVE SERVICES\n\nD1110 Prophylaxis, Adult (Permanent Dentition)\n1120 Prophylaxis, Child (Primary or Mixed Dentition)\nD1203 Topical Fluoride Not Including Prophy-Child\n1D12N4_ Tonical Fluoride Not Includina Proohy-Adult\n\nSBaqaae\n\n2931\n02932\n2940\n2950\n02954\n02954\n02970\n\nENDODONTICS\n\nD3110\nD3220\n03221\nD3222\nD3230\nD3240\nD3310\n\nSO:\n\no\n\nCrown-\u00a3\nCrown-F\nSedative\nCore Bu\nPin Rete\nPost Ant\nTempor\n\nPulp Caj\nVital Pul\nPulpal D\nPartial P\nPulp The\nPulp The\nEndodor\u2122\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h20m17s",
+        "frame": "output_frame_12018.jpg"
+    },
+    {
+        "audio_transcription": "data for example we need to",
+        "OCR_text": "A)\ng, (NG B2RAbPM gy\nF us wameat\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h21m48s",
+        "frame": "output_frame_12109.jpg"
+    },
+    {
+        "audio_transcription": "plan the status after a year",
+        "OCR_text": "BAMBOO\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h21m51s",
+        "frame": "output_frame_12112.jpg"
+    },
+    {
+        "audio_transcription": "Could not understand audio",
+        "OCR_text": "pe\nPia\nmboo\nBar\n\nNie}\n\n",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h21m55s",
+        "frame": "output_frame_12116.jpg"
+    },
+    {
+        "audio_transcription": "is it a bad thing to delete that it is you can argue both ways on the business situation but you asked a great question I'm going to answer it so I say this is the PK okay and then say this is the okay so the problem always is what happens if they have gay you know it's not so you know there's a number here no 5 is missing you know question is right now when you come across this what should you do is the question one answer is you delete it but if you delete this then you lost all the analytics you never know that the person called",
+        "OCR_text": "",
+        "link": "https://youtu.be/7GuJ45EwRrI?t=3h21m57s",
+        "frame": "output_frame_12118.jpg"
+    }
+]

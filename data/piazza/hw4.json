@@ -1,0 +1,157 @@
+{
+  "response": [
+    {
+      "value": {
+        "post_number": 221,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=221",
+        "subject": "HW4 NoSQL Visualization",
+        "content": "In HW4 NoSQL part, we need to plot the 13 locations in both Q2 and Q6. I have no idea if we need to plot these locations in Q6 using Geo Scatter, what kind of chart can we use for Q2 plotting?",
+        "follow_ups": [
+          {
+            "subject": "I have the same confusion. I have been using Geo Scatter for all the questions from Q2 to Q5. Are we supposed to use some charts other than Geo Scatter for Q2 to Q5?",
+            "content": "No content"
+          },
+          {
+            "subject": "No subject",
+            "content": "No content"
+          }
+        ]
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 218,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=218",
+        "subject": "HW4, Q3",
+        "content": "I couldn’t find the shell dataset that has num_rings as an attribute. I managed to find the same dataset only with a different attribute name (instead of num_rings it will be class_ring). Can anyone give me the link for a dataset that has num_ring attribute, just to be safe.",
+        "follow_ups": [
+          {
+            "subject": "No subject",
+            "content": "No content"
+          }
+        ]
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 217,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=217",
+        "subject": "HW4 - Data Mining",
+        "content": "For Homework 4 (Data Mining) Do we need to include the Flow Design screenshots for KNIME and RapidMiner along with the output screenshots?",
+        "follow_ups": []
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 207,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=207",
+        "subject": "Can we do both Data Mining AND NoSQL?",
+        "content": "Two’s better than one! For Homework 4, can we submit both the Data Mining AND the NoSQL assignments?",
+        "follow_ups": [
+          {
+            "subject": "No subject",
+            "content": "No content"
+          },
+          {
+            "subject": "No subject",
+            "content": "No content"
+          }
+        ]
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 197,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=197",
+        "subject": "HW4 Q5 NoSql section",
+        "content": "Hi I was wondering if we need to draw the triangle line in Q5, geospatial scatter doesn’t seem to support it. Thanks a lot!",
+        "follow_ups": [
+          {
+            "subject": "I don't know how to draw the triangle and bounding box either. Can I just show the query and the result?",
+            "content": "No content"
+          },
+          {
+            "subject": "No need to draw the triangle.",
+            "content": "No content"
+          },
+          {
+            "subject": "No subject",
+            "content": "No content"
+          }
+        ]
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 186,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=186",
+        "subject": "Solution to RapidMiner's empty 'select attributes' list",
+        "content": "See here: https://community.rapidminer.com/discussion/34127/missing-attributes-in-select-attributes-subset",
+        "follow_ups": [
+          {
+            "subject": "Thank you for this! I ended up doing both of the top 2 things suggested.",
+            "content": "1. I enabled 'Synchronize Meta Data with Read data' option in the 'Process' menu. But I still wasn't seeing my attributes, so I also did #2. 2. I typed in 'length' on the right side and hit the green + to manually add in the length. Same for the other attributes that I wanted. Then after running once, when I went back to the attribute selector I could see all the attributes."
+          },
+          {
+            "subject": "It works for me. Thank you. It seems that this bug has been there for 10 years. I saw a post with the same issue in 2013.",
+            "content": "No content"
+          }
+        ]
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 182,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=182",
+        "subject": "HW4 Q5",
+        "content": "NoSQL Section. In Q5, when I apply the query to select national parks within a Triangle, the chart just goes blank. No error or warnings whatsoever. The query is syntactically correct. Anyone facing the same issue?",
+        "follow_ups": [
+          {
+            "subject": "No subject",
+            "content": "No content"
+          },
+          {
+            "subject": "Try changing your indices on the geoscatter in case you flipped the long and lat",
+            "content": "No content"
+          }
+        ]
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 178,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=178",
+        "subject": "Bounding Box",
+        "content": "I choose the NoSQL version for HW4. It requires us to insert rows in a specific style (not geospatial data style). However, in step 3, it asks us to specify a bounding box. I have no hint on this step... Could someone please give me some hints about query? Thanks a lot!",
+        "follow_ups": [
+          {
+            "subject": "No subject",
+            "content": "No content"
+          },
+          {
+            "subject": "Same question here. I can do it with hardcode, but in addition to the hardcoded method, do we have any other better method to solve it?",
+            "content": "No content"
+          }
+        ]
+      },
+      "type": "text"
+    },
+    {
+      "value": {
+        "post_number": 177,
+        "url": "https://piazza.com/class/lhrp7w94sda1uy?cid=177",
+        "subject": "[NoSQL] Question 6 Additional Key",
+        "content": "Just to be sure, adding an additional key to color locations according to type for question/part 6 is optional, right?I have it set to color code by name and not category if that is ok and should not impact anything",
+        "follow_ups": []
+      },
+      "type": "text"
+    }
+  ]
+}
